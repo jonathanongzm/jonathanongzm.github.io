@@ -1,0 +1,63 @@
+/* General Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  overflow-x: hidden;
+}
+
+.navbar {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.navbar ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar ul li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+  color: #a472e6;
+  font-weight: bold;
+}
+
+.main-header {
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.main-header h1 {
+  font-size: 48px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.main-header p {
+  font-size: 18px;
+  color: #666;
+}
+
+.contact-links {
+  margin-top: 20px;
+}
+
+.content {
+  max-width: 800px;
+  margin: 0 auto; /* Center content with margins */
+  padding: 20px;
+  text-align: left;
+}

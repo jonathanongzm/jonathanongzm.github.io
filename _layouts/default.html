@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <!-- Background Graphics -->
+  <div class="background-graphic"></div>
+
+  <!-- Navigation Bar -->
+  <nav class="navbar">
+    <ul>
+      <li><a href="{{ '/' | relative_url }}">Home</a></li>
+      <li><a href="{{ '/research/' | relative_url }}">Research</a></li>
+      <li><a href="{{ '/cv/' | relative_url }}">CV</a></li>
+    </ul>
+  </nav>
+
+  <!-- Main Content -->
+  {% if page.title == "Home" %}
+  <div class="main-header">
+    <h1>Jonathan Z. Ong</h1>
+    <p>Researcher + Visual Artist</p>
+    <div class="contact-links">
+      <a href="mailto:jonathanzong98@gmail.com">Email</a><br>
+      <a href="https://scholar.google.com">Google Scholar</a><br>
+      <a href="https://www.researchgate.net">ResearchGate</a><br>
+      <a href="https://github.com/jonathanongzm">GitHub</a><br>
+      <a href="https://twitter.com/jonathanongz">Twitter</a><br>
+      <a href="{{ '/cv/' | relative_url }}">CV</a><br>
+    </div>
+  </div>
+  {% endif %}
+
+  <!-- Page Content -->
+  <main class="content">
+    {{ content }}
+  </main>
+</body>
+</html>
