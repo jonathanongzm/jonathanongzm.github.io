@@ -6,7 +6,7 @@ cd "C:\Users\jonat\OneDrive - Nanyang Technological University\Desktop\website"
 
 bundle exec jekyll serve
 
-# How to commit and push changes:
+# How to pull, commit and push changes:
 
 
 git pull origin main
