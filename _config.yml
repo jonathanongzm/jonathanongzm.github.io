@@ -1,9 +1,8 @@
-title: Jonathan Z. Ong
+title: "Jonathan Z. Ong | Developmental Cognitive Neuroscience"
 email: jonathanzong98@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Jonathan Z. Ong is is a master's student in developmental cognitive neuroscience, studying parent-infant interactions at behavioral and neural levels. He integrates research in psychology and animal neuroscience with advanced data analysis to uncover patterns in early child development.
+description: "Explore Jonathan Z. Ong’s research in developmental cognitive neuroscience, including studies on infant neurodevelopment, parent-infant interactions, and optogenetic models."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jonathanongzm.github.io/" # replace with your actual domain
 twitter_username: jonathanongz
 github_username: jonathanongzm
 
