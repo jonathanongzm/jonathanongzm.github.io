@@ -1,11 +1,26 @@
 /* General Styles */
 body {
   font-family: 'Arial', sans-serif;
+  font-size: 18px;
   color: #333;
   margin: 0;
   padding: 0;
   background-color: #fff;
   overflow-x: hidden;
+  line-height: 1.6;
+}
+
+%/* Specific Justification for Elements */
+%p, li {
+%  text-align: justify; /* Justifies all paragraphs and list items */
+%}
+
+/* Floating Profile Photo */
+.profile-photo {
+  float: left; /* Float the image to the left */
+  width: 300px; /* Set the desired width */
+  border-radius: 6%; /* Round the image corners */
+  margin: 0 20px 20px 0; /* Add margin to the right and bottom of the image */
 }
 
 .navbar {
@@ -31,33 +46,49 @@ body {
   text-decoration: none;
   color: #a472e6;
   font-weight: bold;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  color: #a472e6;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 .main-header {
-  margin-top: 100px;
+  margin-top: 150px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
 }
 
-.main-header h1 {
-  font-size: 48px;
+/* Style for larger heading, aligned to the right */
+.large-heading {
+  font-size: 48px; /* Increase font size */
   font-weight: 700;
-  margin: 0;
+  margin: 1000;
+  color: #333; /* Adjust color if needed */
+  text-align: left; /* Align the title to the right */
 }
 
 .main-header p {
-  font-size: 18px;
+  font-size: 20px;
   color: #666;
 }
 
 .contact-links {
   margin-top: 20px;
+  font-size: 18px;
 }
 
 .content {
   max-width: 800px;
-  margin: 0 auto; /* Center content with margins */
+  margin: 40px auto;
   padding: 20px;
   text-align: left;
+  line-height: 1.6;
+  font-size: 18px;
 }
