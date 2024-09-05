@@ -10,6 +10,7 @@ title: Home
 [jonathanzong98@gmail.com](mailto:jonathanzong98@gmail.com) <br>
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=V7jJABQAAAAJ&view_op=list_works&sortby=pubdate) <br>
 [ResearchGate](https://www.researchgate.net/profile/Jonathan-Z-Ong) <br>
+[ORCID](https://orcid.org/0000-0003-3834-8187) <br>
 [GitHub](https://github.com/jonathanongzm) <br>
 [X](https://twitter.com/jonathanongz)  
 
