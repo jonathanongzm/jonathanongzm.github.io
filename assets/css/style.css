@@ -1,7 +1,7 @@
 /* General Styles */
 body {
   font-family: 'Arial', sans-serif;
-  font-size: 18px;
+  font-size: 16px; /* Scaled down from 18px to 16px */
   color: #333;
   margin: 0;
   padding: 0;
@@ -18,7 +18,7 @@ body {
 /* Floating Profile Photo */
 .profile-photo {
   float: left; /* Float the image to the left */
-  width: 335px; /* Set the desired width */
+  width: 280px; /* Set the desired width */
   border-radius: 6%; /* Round the image corners */
   margin: 0 20px 20px 0; /* Add margin to the right and bottom of the image */
 }
@@ -46,7 +46,7 @@ body {
   text-decoration: none;
   color: #a472e6;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 16px; /* Scaled down from 18px to 16px */
 }
 
 a {
@@ -67,21 +67,21 @@ a:hover {
 
 /* Style for larger heading, aligned to the right */
 .large-heading {
-  font-size: 48px; /* Increase font size */
-  font-weight: 700;
+  font-size: 45px; /* Scaled down from 48px to 44px */
+  font-weight: 550;
   margin: 1000;
   color: #333; /* Adjust color if needed */
   text-align: left; /* Align the title to the right */
 }
 
 .main-header p {
-  font-size: 20px;
+  font-size: 18px; /* Scaled down from 20px to 18px */
   color: #666;
 }
 
 .contact-links {
   margin-top: 20px;
-  font-size: 18px;
+  font-size: 16px; /* Scaled down from 18px to 16px */
 }
 
 .content {
@@ -90,5 +90,5 @@ a:hover {
   padding: 20px;
   text-align: left;
   line-height: 1.6;
-  font-size: 18px;
+  font-size: 16px; /* Scaled down from 18px to 16px */
 }

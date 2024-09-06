@@ -10,8 +10,7 @@ permalink: /research/
 
 <hr>
 
-## A Sociometric AI Screening Tool to Risk-Stratify Infant Neurodevelopmental Trajectories (STARS)
-<!-- Adding the image using HTML for better control -->
+## <a id="stars-project"></a>A Sociometric AI Screening Tool to Risk-Stratify Infant Neurodevelopmental Trajectories (STARS)
 <img src="/assets/images/stars_photo.jpg" alt="STARS Research Image" style="width:800px; height:auto;">
 **Description**<br>
 The STARS project aims to develop a novel, scalable screening tool, the SociomeTric AI neurodevelopmental Risk Stratification (STARS) toolkit, to measure infant mental wellbeing from 6 months of age and guide clinical deployment and policy implementation in Singapore. By leveraging innovations in dyadic-EEG brain imaging and AI machine-learning methods, the STARS toolkit will provide a brief screening test, individual risk prediction, and a mobile app for clinicians to assess early neurodevelopmental trajectories. If successful, it could enable nationwide infant screening for neurodevelopmental disorders, improving early intervention and generating long-term benefits for education and healthcare.
@@ -24,20 +23,16 @@ Student Principal Investigator (Jan 2023 - Dec 2024)
  
 **Responsibilities**<br>
 - Designing and implementing experimental tasks and protocols to assess executive function neurodevelopmental trajectories in young children.
- 
 - Collecting dyadic EEG and ECG data with infants and toddlers, both at risk and not at risk of developmental disorders, ensuring high-quality data capture and adherence to ethical standards.
- 
 - Analyzing multimodal datasets using linear and non-linear statistical methods in MATLAB, R, and Python to uncover how parent-child interaction dynamics relate to executive function.
  
 **Output/Publications**<br>
 1. Protocol for longitudinal imaging of parent–infant social interactive behavior and neurophysiology to assess emerging executive functions in infants with and without neurodevelopmental risks (in preparation).
- 
 2. Leong, V., Campolo, D., & Ong, J. Z. (2024). Understanding infants' mental skills: New AI and sensor tools to measure development. *Nanyang Technological University Magazine: Pushing Frontiers*, (23), 22-23. [PDF](/assets/pdf/pushing_frontiers.pdf)
 
-<br>
 <hr>
 
-## A Novel Optogenetic Parent-Offspring Mouse Model of Neural Synchrony and Social Learning
+## <a id="opto-mouse-model"></a>A Novel Optogenetic Parent-Offspring Mouse Model of Neural Synchrony and Social Learning
 <img src="/assets/images/opto_photo.jpg" alt="Opto Research Image" style="width:800px; height:auto;">
 **Description**<br>
 This project aims to test whether interpersonal neural synchronization is causally necessary for social learning by manipulating neural synchronicity within parent-infant dyads using optogenetic methods. Optogenetics offers precise, light-based control of neural circuits, allowing selective activation or inhibition of specific neurons in transgenic animals to study their role in social learning.
@@ -50,22 +45,17 @@ Student Principal Investigator (Jan 2023 - Dec 2024)
  
 **Responsibilities**<br>
 - Refining and implementing experimental tasks and protocols (i.e., the social transmission of food preference paradigm) to investigate the role of optogenetically induced neural synchronization in social learning among parent-child dyads.
- 
 - Managing mouse husbandry, including breeding, maintaining transgenic lines, and ensuring optimal animal welfare in compliance with ethical standards.
- 
 - Performing genotyping to verify the genetic modification of transgenic mice and ensure the integrity of experimental models.
- 
-- Executing brain harvests and conducting immunohistochemistry to identify and analyze implantations sites and gene expression.
- 
+- Executing brain harvests and conducting immunohistochemistry to identify and analyze implantation sites and gene expression.
 - Analyzing experimental data using statistical and computational techniques, including dynamical systems modeling in MATLAB, R, and Python, to identify patterns and causal relationships in parent-child dynamics. 
 
 **Output/Publications**<br> 
 1. Ham, G. X., Ong, J. Z., Augustine, G. J., & Leong, V. (2024). Protocol to study dam-pup social transmission using a modified paradigm for transmission of food preference. *STAR Protocols*, *5*(2), 103077. [https://doi.org/10.1016/j.xpro.2024.103077](https://doi.org/10.1016/j.xpro.2024.103077)
-
 <br>
 <hr>
 
-## AGEWELL: Ageing, Health and Well-Being
+## <a id="agewell"></a>AGEWELL: Ageing, Health and Well-Being
 <img src="/assets/images/agewell_photo.jpg" alt="Opto Research Image" style="width:800px; height:auto;">
 **Description**<br>
 AGEWELL is a longitudinal project that aims to identify the optimal combination of life conditions predicting positive ageing outcomes across neural, psychological, biological, and economic dimensions. It also seeks to investigate the impact of naturalistic interventions on neurocognitive health over a 4-year period.
@@ -84,7 +74,7 @@ Research Assistant (Jul 2022 – Nov 2022)
 - Cleaned, preprocessed, and analyzed data using statistical software such as SPSS and R to evaluate the impact of socioeconomic factors on cognitive performance.
 
 **Output/Publications**<br> 
-1. Vafa, S., Ong, J. Z., Yong, M. H., Arokiaraj, A. S., Shee, D., Chia, Y. C., & Schaefer, A. (2023). Online cognitive testing with Asian older adults during the Covid-19 pandemic: A proof-of-feasibility study. [Preprint PDF](/assets/pdf/preprint_online_cognitive_testing.pdf)<br> 
+1. Vafa, S., Ong, J. Z., Yong, M. H., Arokiaraj, A. S., Shee, D., Chia, Y. C., & Schaefer, A. (2023). Online cognitive testing with Asian older adults during the Covid-19 pandemic: A proof-of-feasibility study. [https://doi.org/10.31234/osf.io/t8exs](https://doi.org/10.31234/osf.io/t8exs)<br> 
  
 2. Marzuki, A. A., Thanaraju, A., Ong, J. Z., Yip, W. Z., Yap, Z. J., Wong, K. Y., ... Schaefer, A. AGEWELL: Investigating the predictors of healthy neurocognitive ageing in a socioeconomically and ethnically diverse Malaysian cohort. *Poster presented at Annual Meeting of the Society for Neuroscience 2022, Singapore Chapter*. [http://dx.doi.org/10.13140/RG.2.2.18928.74241](http://dx.doi.org/10.13140/RG.2.2.18928.74241)
 
