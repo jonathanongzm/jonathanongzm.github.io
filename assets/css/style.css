@@ -67,7 +67,7 @@ a:hover {
 
 /* Responsive large heading */
 .large-heading {
-  font-size: 2.3vw; /* Sets the font size to 4% of the viewport width */
+  font-size: 2.3vw; /* Default font size for large screens */
   font-weight: 600;
   text-align: left;
   margin: 20px 0;
@@ -75,16 +75,15 @@ a:hover {
 
 @media screen and (max-width: 768px) {
   .large-heading {
-    font-size: 2.5vw; /* Increase the font size slightly on smaller screens */
+    font-size: 3vw; /* Slightly larger font size for medium screens */
   }
 }
 
 @media screen and (max-width: 480px) {
   .large-heading {
-    font-size: 1vw; /* Increase the font size further on very small screens */
+    font-size: 4vw; /* Even larger font size for smaller screens */
   }
 }
-
 
 .main-header p {
   font-size: 18px; /* Scaled down from 20px to 18px */
