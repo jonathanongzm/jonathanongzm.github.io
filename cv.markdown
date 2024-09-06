@@ -17,23 +17,29 @@ permalink: /cv/
 School of Social Sciences, Nanyang Technological University  
 *Jan 2023 – Present*  
 - Awarded a fully funded studentship under an A*STAR Grant led by Prof. Victoria Leong.  
+ 
 - [**Sociometric AI Neurodevelopmental Risk Stratification (STARS)**:](https://jonathanongzm.github.io/research/#stars-project)  
-  Developing a scalable AI-based screening tool to predict neurodevelopmental risk profiles in children (6-36 months) using dyadic EEG and machine learning techniques. Leading data collection, preprocessing, and analysis of EEG/ECG signals; applying linear and non-linear modeling to assess developmental trajectories. Proficient in MATLAB, R, and Python for multimodal data analysis.  
+Developing a scalable AI-based screening tool to predict neurodevelopmental risk profiles in children (6-36 months) using dyadic EEG and machine learning techniques. Leading data collection, preprocessing, and analysis of EEG/ECG signals; applying linear and non-linear modeling to assess developmental trajectories. Proficient in MATLAB, R, and Python for multimodal data analysis.  
+ 
 - [**Optogenetic Parent-Child Mouse Model of Neural Synchrony and Social Learning**:](https://jonathanongzm.github.io/research/#opto-mouse-model)  
-  Investigating the causal role of neural synchronization in social learning using optogenetic methods. Managing transgenic mouse breeding and maintenance; performing genotyping, immunohistochemistry, and dynamical systems modeling.  
+Investigating the causal role of neural synchronization in social learning using optogenetic methods. Managing transgenic mouse breeding and maintenance; performing genotyping, immunohistochemistry, and dynamical systems modeling.  
 
 **Bachelor of Psychological Science (Honours)**  
 Jeffrey Cheah School of Medicine and Health Sciences, Monash University  
 *Mar 2021 – Nov 2021*  
 - Graduated with a GPA of 4.00/4.00 (average mark: 89.13%).  
-- Recipient of the Graduate Pathway Research Scholarship (2021).  
+ 
+- Recipient of the Graduate Pathway Research Scholarship (2021). 
+  
 - Received the Best Graduate Award (2022).  
  
 **Bachelor of Psychological Science**  
 Jeffrey Cheah School of Medicine and Health Sciences, Monash University  
 *Jul 2017 – Jul 2020*  
 - Graduated with a GPA of 3.92/4.00 (average mark: 84.87%).  
-- Awarded the Monash High Achiever Award (2019) and Best Graduate Award (2020).  
+ 
+- Awarded the Monash High Achiever Award (2019) and Best Graduate Award (2020). 
+  
 - Exempted from a loan of RM 20,550 by the Malaysian National Higher Education Fund Corporation for academic excellence.  
 
 <hr>
@@ -43,6 +49,7 @@ Jeffrey Cheah School of Medicine and Health Sciences, Monash University
 Ageing, Health, and Well-Being Research Centre, Sunway University  
 *Jul 2022 – Nov 2022*  
 - Assisted in a project investigating the neural, biological, and behavioral markers of aging in a diverse Malaysian cohort, employing structural MRI, EEG, salivary analyses, and neuropsychological tests.  
+ 
 - Performed EEG data acquisition, preprocessing, and the computation of event-related potentials (ERPs) using MATLAB.
 
 **Peer Tutor and Sessional Marker**  
@@ -54,27 +61,34 @@ Department of Psychology, Monash University Malaysia
 Department of Psychology, Monash University Malaysia  
 *Nov 2018 – Nov 2022*  
 - Led quantitative research on parent-child relationships, social interactions, and individual differences in the Malaysian context.  
+ 
 - Investigated cultural differences in cancer stigma using both quantitative and qualitative research methods.  
+ 
 - Utilized R and SPSS for generalized linear modeling and data analysis.  
+ 
 - Awarded 3rd Place for [Best Poster Presentation](http://dx.doi.org/10.13140/RG.2.2.12484.85121) at the Jeffrey Cheah School of Medicine and Health Sciences Research Symposium (2020).  
+ 
 - Organized the [Southeast Asian Indigenous Psychology Scientific Meeting](https://seaip2021.wixsite.com/sea-ip) in 2021 and 2022.
 
 **English Teacher**  
 Italki (Online Platform)  
 *Dec 2021 – Mar 2022*  
 - Created tailored lesson plans for a diverse range of students (ages 14–60) from countries including Malaysia, Indonesia, Vietnam, Korea, China, Russia, Spain, Israel, and Chile.  
+ 
 - Enhanced students' language proficiency through personalized teaching methods and cultural exchange.
 
 **Volunteer Teacher**  
 Monash University Volunteering Program  
 *Mar 2018 – Nov 2018*  
 - Taught English to Burmese refugee adolescents, focusing on fluency skills.  
+ 
 - Facilitated physical and learning activities for individuals with special needs to support their development.
 
 **Public School Teacher**  
 SK & SMK Bandar Tun Hussein Onn 2 (Primary and High School)  
 *Jun 2016 – May 2017*  
-- Taught History, Mathematics, Arts, and Civics to secondary school students (ages 13–14).  
+- Taught History, Mathematics, Arts, and Civics to secondary school students (ages 13–14).
+   
 - Designed and implemented interaction-based English lessons for primary school students (age 10).  
 <hr>
 ## Publications

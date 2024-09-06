@@ -23,11 +23,14 @@ Student Principal Investigator (Jan 2023 - Dec 2024)
  
 **Responsibilities**<br>
 - Designing and implementing experimental tasks and protocols to assess executive function neurodevelopmental trajectories in young children.
+ 
 - Collecting dyadic EEG and ECG data with infants and toddlers, both at risk and not at risk of developmental disorders, ensuring high-quality data capture and adherence to ethical standards.
+ 
 - Analyzing multimodal datasets using linear and non-linear statistical methods in MATLAB, R, and Python to uncover how parent-child interaction dynamics relate to executive function.
  
 **Output/Publications**<br>
 1. Protocol for longitudinal imaging of parent–infant social interactive behavior and neurophysiology to assess emerging executive functions in infants with and without neurodevelopmental risks (in preparation).
+ 
 2. Leong, V., Campolo, D., & Ong, J. Z. (2024). Understanding infants' mental skills: New AI and sensor tools to measure development. *Nanyang Technological University Magazine: Pushing Frontiers*, (23), 22-23. [PDF](/assets/pdf/pushing_frontiers.pdf)
 
 <hr>
@@ -45,9 +48,13 @@ Student Principal Investigator (Jan 2023 - Dec 2024)
  
 **Responsibilities**<br>
 - Refining and implementing experimental tasks and protocols (i.e., the social transmission of food preference paradigm) to investigate the role of optogenetically induced neural synchronization in social learning among parent-child dyads.
+ 
 - Managing mouse husbandry, including breeding, maintaining transgenic lines, and ensuring optimal animal welfare in compliance with ethical standards.
+ 
 - Performing genotyping to verify the genetic modification of transgenic mice and ensure the integrity of experimental models.
+ 
 - Executing brain harvests and conducting immunohistochemistry to identify and analyze implantation sites and gene expression.
+ 
 - Analyzing experimental data using statistical and computational techniques, including dynamical systems modeling in MATLAB, R, and Python, to identify patterns and causal relationships in parent-child dynamics. 
 
 **Output/Publications**<br> 
