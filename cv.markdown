@@ -93,6 +93,6 @@ SK & SMK Bandar Tun Hussein Onn 2 (Primary and High School)
 <hr>
 ## Conference Presentation and Magazine Article
 
-1. Marzuki, A. A., Thanaraju, A., Ong, J. Z., Yip, W. Z., Yap, Z. J., Wong, K. Y., ... Schaefer, A. (2022). AGEWELL: Investigating the predictors of healthy neurocognitive ageing in a socioeconomically and ethnically diverse Malaysian cohort. *Poster presented at Annual Meeting of the Society for Neuroscience 2022, Singapore Chapter*. [http://dx.doi.org/10.13140/RG.2.2.18928.74241](http://dx.doi.org/10.13140/RG.2.2.18928.74241).
+1. Marzuki, A. A., Thanaraju, A., Ong, J. Z., Yip, W. Z., Yap, Z. J., Wong, K. Y., ... Schaefer, A. (2022). AGEWELL: Investigating the predictors of healthy neurocognitive ageing in a socioeconomically and ethnically diverse Malaysian cohort. *Poster presented at Annual Meeting of the Society for Neuroscience 2022, Singapore Chapter*. [http://doi.org/10.13140/RG.2.2.18928.74241](http://doi.org/10.13140/RG.2.2.18928.74241).
 
 2. Leong, V., Campolo, D., & Ong, J. Z. (2024). Understanding infants' mental skills: New AI and sensor tools to measure development. *Nanyang Technological University Magazine: Pushing Frontiers, (23),* 22-23. [PDF](/assets/pdf/pushing_frontiers.pdf).
