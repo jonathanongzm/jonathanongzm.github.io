@@ -20,4 +20,4 @@ Jonathan Z. Ong is a master's student specializing in developmental cognitive ne
 <br>
 ### Simulated EEG Signals Over a 1-Second Window
 <!-- EEG Simulation Canvas -->
-<canvas id="eegCanvas" width="1000" height="200"></canvas>
+<canvas id="eegCanvas" width="800" height="200"></canvas>
