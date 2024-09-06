@@ -11,7 +11,7 @@ permalink: /research/
 <hr>
 
 ## <a id="stars-project"></a>A Sociometric AI Screening Tool to Risk-Stratify Infant Neurodevelopmental Trajectories (STARS)
-<img src="/assets/images/stars_photo.jpg" alt="STARS Research Image" style="width:800px; height:auto;">
+<img src="/assets/images/stars_photo.jpg" alt="STARS Research Image" class="responsive-image">
 **Description**<br>
 The STARS project aims to develop a novel, scalable screening tool, the SociomeTric AI neurodevelopmental Risk Stratification (STARS) toolkit, to measure infant mental wellbeing from 6 months of age and guide clinical deployment and policy implementation in Singapore. By leveraging innovations in dyadic-EEG brain imaging and AI machine-learning methods, the STARS toolkit will provide a brief screening test, individual risk prediction, and a mobile app for clinicians to assess early neurodevelopmental trajectories. If successful, it could enable nationwide infant screening for neurodevelopmental disorders, improving early intervention and generating long-term benefits for education and healthcare.
   
@@ -36,7 +36,7 @@ Student Principal Investigator (Jan 2023 - Dec 2024)
 <hr>
 
 ## <a id="opto-mouse-model"></a>A Novel Optogenetic Parent-Offspring Mouse Model of Neural Synchrony and Social Learning
-<img src="/assets/images/opto_photo.jpg" alt="Opto Research Image" style="width:800px; height:auto;">
+<img src="/assets/images/opto_photo.jpg" alt="Opto Research Image" class="responsive-image">
 **Description**<br>
 This project aims to test whether interpersonal neural synchronization is causally necessary for social learning by manipulating neural synchronicity within parent-infant dyads using optogenetic methods. Optogenetics offers precise, light-based control of neural circuits, allowing selective activation or inhibition of specific neurons in transgenic animals to study their role in social learning.
  
@@ -63,7 +63,7 @@ Student Principal Investigator (Jan 2023 - Dec 2024)
 <hr>
 
 ## <a id="agewell"></a>AGEWELL: Ageing, Health and Well-Being
-<img src="/assets/images/agewell_photo.jpg" alt="Opto Research Image" style="width:800px; height:auto;">
+<img src="/assets/images/agewell_photo.jpg" alt="AGEWELL Research Image" class="responsive-image">
 **Description**<br>
 AGEWELL is a longitudinal project that aims to identify the optimal combination of life conditions predicting positive ageing outcomes across neural, psychological, biological, and economic dimensions. It also seeks to investigate the impact of naturalistic interventions on neurocognitive health over a 4-year period.
  
