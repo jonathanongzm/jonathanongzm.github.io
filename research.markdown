@@ -109,7 +109,7 @@ Student Principal Investigator (Jan 2021 – Dec 2021)
 - Performed statistical analyses using software such as SPSS and R.
  
 **Output/Publications**<br> 
-1. Goh, P. H., & Ong, J. Z. (2022). It's a guy thing: Sex as a moderator of the relationship between social anxiety and perception of interpersonal warmth in initial heterosexual interactions. Asian Journal of Social Psychology, 25(4), 806-815. [https://doi.org/10.1111/ajsp.12536](https://doi.org/10.1111/ajsp.12536).<br> 
+1. Goh, P. H., & Ong, J. Z. (2022). It's a guy thing: Sex as a moderator of the relationship between social anxiety and perception of interpersonal warmth in initial heterosexual interactions. *Asian Journal of Social Psychology, 25*(4), 806-815. [https://doi.org/10.1111/ajsp.12536](https://doi.org/10.1111/ajsp.12536).<br> 
 [Poster Available](http://doi.org/10.13140/RG.2.2.12484.85121).
  
 2. Koh, D. M., Ong, J. Z., & Goh, P. H. (in preparation). Helicopter Parenting and Social Competence among Single Malaysian Adults: Filial Piety as a Moderator.
