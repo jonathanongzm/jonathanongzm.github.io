@@ -23,19 +23,24 @@ body {
   margin: 0 20px 20px 0; /* Add margin to the right and bottom of the image */
 }
 
+/* Sticky Navbar */
 .navbar {
-  position: absolute;
-  top: 20px;
+  position: fixed; /* Changes position to fixed */
+  top: 0; /* Sticks the navbar to the top */
   left: 0;
-  width: 100%;
+  width: 100%; /* Takes the full width */
+  background-color: #fff; /* Adds a background color */
+  z-index: 1000; /* Ensures the navbar stays on top of other content */
   text-align: center;
+  padding: 10px 0; /* Adds some padding */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adds a slight shadow for better visibility */
 }
 
-.navbar ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
+/* Adjust body content to avoid overlap with navbar */
+body {
+  padding-top: 60px; /* Adjust according to your navbar height */
 }
+
 
 .navbar ul li {
   display: inline-block;
