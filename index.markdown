@@ -16,3 +16,8 @@ title: Home
 
 
 Jonathan Z. Ong is a master's student specializing in developmental cognitive neuroscience, exploring the dynamics of parent-child interactions at both behavioral and neural levels. He integrates research in psychology and animal neuroscience with advanced data analysis to uncover patterns in early childhood development. Outside of academia, he enjoys playing sports and engaging in deep conversations with friends.
+<br>
+<br>
+### Simulated EEG Signals Over a 1-Second Window
+<!-- EEG Simulation Canvas -->
+<canvas id="eegCanvas" width="1000" height="200"></canvas>

@@ -117,3 +117,21 @@ a:hover {
   margin: 0 auto; /* Centers the image horizontally */
 }
 
+/* EEG Simulation Canvas */
+#eegCanvas {
+  display: block;
+  margin: 20px auto; /* Centers the canvas */
+  border: 1px solid #ddd; /* Adds a subtle border */
+  background-color: #fff; /* Background color for the canvas */
+  position: relative;
+}
+
+/* EEG Channel Labels */
+.channel-label {
+  position: absolute;
+  left: 10px; /* Position from left */
+  font-size: 12px;
+  color: #333;
+}
+
+

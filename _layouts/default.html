@@ -30,5 +30,95 @@
   <main class="content">
     {{ content }}
   </main>
+
+  <!-- JavaScript for EEG Animation -->
+<script>
+  const canvas = document.getElementById('eegCanvas');
+  const ctx = canvas.getContext('2d');
+
+  let x = 0;
+  const channelYPositions = [
+    canvas.height / 6, 
+    (2 * canvas.height) / 6, 
+    (3 * canvas.height) / 6, 
+    (4 * canvas.height) / 6, 
+    (5 * canvas.height) / 6
+  ]; // Y positions for each channel
+
+  // Define base amplitude and fixed frequency for different frequency bands (in Hz)
+  const alpha = { baseAmplitude: 10, frequency: 10 }; // Alpha waves (10 Hz)
+  const beta = { baseAmplitude: 10, frequency: 20 };  // Beta waves (20 Hz)
+  const delta = { baseAmplitude: 10, frequency: 2 }; // Delta waves (2 Hz)
+  const theta = { baseAmplitude: 10, frequency: 6 }; // Theta waves (6 Hz)
+
+  const eegData = Array.from({ length: 5 }, () => Array(canvas.width).fill(0));
+
+  function drawEEG() {
+    // Shift existing data to the left to create the scrolling effect
+    for (let channel = 0; channel < 5; channel++) {
+      eegData[channel].shift(); // Remove the first element
+    }
+
+    // Define labels for each channel
+    const labels = [
+      "Alpha (8-13 Hz)", 
+      "Beta (13-30 Hz)", 
+      "Delta (0.5-4 Hz)", 
+      "Theta (4-8 Hz)", 
+      "Combined"
+    ];
+
+    // Calculate the new data point and add it to the end of each channel's array
+    for (let channel = 0; channel < 5; channel++) {
+      // Generate new data for each frequency band
+      const alphaWave = alpha.baseAmplitude * Math.sin((x / canvas.width) * alpha.frequency * 2 * Math.PI);
+      const betaWave = beta.baseAmplitude * Math.sin((x / canvas.width) * beta.frequency * 2 * Math.PI);
+      const deltaWave = delta.baseAmplitude * Math.sin((x / canvas.width) * delta.frequency * 2 * Math.PI);
+      const thetaWave = theta.baseAmplitude * Math.sin((x / canvas.width) * theta.frequency * 2 * Math.PI);
+
+      let yOffset;
+      if (channel === 0) yOffset = alphaWave;
+      else if (channel === 1) yOffset = betaWave;
+      else if (channel === 2) yOffset = deltaWave;
+      else if (channel === 3) yOffset = thetaWave;
+      else yOffset = alphaWave + betaWave + deltaWave + thetaWave; // Combined channel
+
+      // Add the new yOffset to the channel's data
+      eegData[channel].push(channelYPositions[channel] + yOffset);
+    }
+
+    // Clear the canvas
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    // Draw each EEG channel
+    for (let channel = 0; channel < 5; channel++) {
+      ctx.beginPath();
+      ctx.moveTo(0, eegData[channel][0]);
+
+      for (let i = 1; i < canvas.width; i++) {
+        ctx.lineTo(i, eegData[channel][i]);
+      }
+
+      ctx.strokeStyle = '#a472e6';
+      ctx.lineWidth = 2;
+      ctx.stroke();
+
+      // Add label for each channel, moved up by 20 pixels
+      ctx.fillStyle = '#333';
+      ctx.font = '12px Arial';
+      ctx.fillText(labels[channel], 10, channelYPositions[channel] - 20);
+    }
+
+    // Increment position to simulate real-time drawing
+    x += 1; // Faster movement to match EEG timescale
+
+    // Loop the animation
+    requestAnimationFrame(drawEEG);
+  }
+
+  // Start the animation
+  drawEEG();
+</script>
+
 </body>
 </html>
