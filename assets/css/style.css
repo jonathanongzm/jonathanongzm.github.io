@@ -75,13 +75,13 @@ a:hover {
 
 @media screen and (max-width: 768px) {
   .large-heading {
-    font-size: 4vw; /* Larger font size for medium screens */
+    font-size: 7vw; /* Larger font size for medium screens */
   }
 }
 
 @media screen and (max-width: 480px) {
   .large-heading {
-    font-size: 6vw; /* Much larger font size for smaller screens */
+    font-size: 10vw; /* Much larger font size for smaller screens */
   }
 }
 
