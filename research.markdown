@@ -6,7 +6,9 @@ permalink: /research/
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=V7jJABQAAAAJ&view_op=list_works&sortby=pubdate) <br>
 [ResearchGate](https://www.researchgate.net/profile/Jonathan-Z-Ong) <br>
-[ORCID](https://orcid.org/0000-0003-3834-8187)
+[ORCID](https://orcid.org/0000-0003-3834-8187)<br>
+[GitHub](https://github.com/jonathanongzm) <br>
+[X](https://twitter.com/jonathanongz)<br>
 
 <hr>
 
@@ -19,7 +21,7 @@ The STARS project aims to develop a novel, scalable screening tool, the SociomeT
 Prof Victoria Leong
  
 **Role**<br> 
-Student Principal Investigator (Jan 2023 - Dec 2024)
+Student Investigator (Jan 2023 - Dec 2024)
  
 **Responsibilities**<br>
 - Designing and implementing experimental tasks and protocols to assess executive function neurodevelopmental trajectories in young children.
