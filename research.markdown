@@ -46,7 +46,7 @@ This project aims to test whether interpersonal neural synchronization is causal
 Prof Victoria Leong & Prof George J. Augustine
  
 **Role**<br>
-Student Principal Investigator (Jan 2023 - Dec 2024)
+Student Investigator (Jan 2023 - Dec 2024)
  
 **Responsibilities**<br>
 - Refining and implementing experimental tasks and protocols (i.e., the social transmission of food preference paradigm) to investigate the role of optogenetically induced neural synchronization in social learning among parent-child dyads.
@@ -99,7 +99,7 @@ This project examines the social functioning, motivations, and support mechanism
 Dr Goh Pei Hwa
  
 **Role**<br> 
-Student Principal Investigator (Jan 2021 – Dec 2021)
+Student Investigator (Jan 2021 – Dec 2021)
  
 **Responsibilities**<br> 
 - Designed and developed survey instruments to assess social functioning, motivations, and support mechanisms among single adults in Malaysia.
