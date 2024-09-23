@@ -43,7 +43,7 @@ Student Investigator (Jan 2023 - Dec 2024)
 This project aims to test whether interpersonal neural synchronization is causally necessary for social learning by manipulating neural synchronicity within parent-infant dyads using optogenetic methods. Optogenetics offers precise, light-based control of neural circuits, allowing selective activation or inhibition of specific neurons in transgenic animals to study their role in social learning.
  
 **Principal Investigators**<br>
-Prof Victoria Leong & Prof George J. Augustine
+Prof Victoria Leong, Prof George J. Augustine & Dr Ham Gao Xiang
  
 **Role**<br>
 Student Investigator (Jan 2023 - Dec 2024)
