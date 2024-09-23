@@ -9,7 +9,7 @@ permalink: /cv/
 # Jonathan Z. Ong
 
 [jonathanzong98@gmail.com](mailto:jonathanzong98@gmail.com)  
-[https://jonathanongzm.github.io/](https://jonathanongzm.github.io/)
+[https://jonathanongzm.github.io/](https://github.com/jonathanongzm)
 <hr>
 ## Education
 
@@ -99,9 +99,9 @@ SK & SMK Bandar Tun Hussein Onn 2 (Primary and High School)
 <hr>
 ## Manuscripts in Preparation
 
-1. Koh, D. M., Ong, J. Z., & Goh, P. H. (in preparation). Helicopter Parenting and Social Competence among Single Malaysian Adults: Filial Piety as a Moderator.
+1. Koh, D. M., Ong, J. Z., & Goh, P. H. (Under Review). Helicopter Parenting and Social Competence among Single Malaysian Adults: Filial Piety as a Moderator.
 
-2. Vafa, S., Ong, J. Z., Yong, M. H., Arokiaraj, A. S., Shee, D., Chia, Y. C., & Schaefer, A. (in preparation). Online cognitive testing with Asian older adults during the Covid-19 pandemic: A proof-of-feasibility study. [https://doi.org/10.31234/osf.io/t8exs](https://doi.org/10.31234/osf.io/t8exs).
+2. Vafa, S., Ong, J. Z., Yong, M. H., Arokiaraj, A. S., Shee, D., Chia, Y. C., & Schaefer, A. (Under Review). Online cognitive testing with Asian older adults during the Covid-19 pandemic: A proof-of-feasibility study. Preprint: [https://doi.org/10.31234/osf.io/t8exs](https://doi.org/10.31234/osf.io/t8exs).
 
 3. Protocol for longitudinal imaging of parent–infant social interactive behavior and neurophysiology to assess emerging executive functions in infants with and without neurodevelopmental risks (in preparation).
 <hr>

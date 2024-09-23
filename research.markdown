@@ -83,7 +83,7 @@ Research Assistant (Jul 2022 – Nov 2022)
 - Cleaned, preprocessed, and analyzed data using statistical software such as SPSS and R to evaluate the impact of socioeconomic factors on cognitive performance.
 
 **Output/Publications**<br> 
-1. Vafa, S., Ong, J. Z., Yong, M. H., Arokiaraj, A. S., Shee, D., Chia, Y. C., & Schaefer, A. (2023). Online cognitive testing with Asian older adults during the Covid-19 pandemic: A proof-of-feasibility study. [https://doi.org/10.31234/osf.io/t8exs](https://doi.org/10.31234/osf.io/t8exs)<br> 
+1. Vafa, S., Ong, J. Z., Yong, M. H., Arokiaraj, A. S., Shee, D., Chia, Y. C., & Schaefer, A. (Under Review). Online cognitive testing with Asian older adults during the Covid-19 pandemic: A proof-of-feasibility study. Preprint: [https://doi.org/10.31234/osf.io/t8exs](https://doi.org/10.31234/osf.io/t8exs)<br> 
  
 2. Marzuki, A. A., Thanaraju, A., Ong, J. Z., Yip, W. Z., Yap, Z. J., Wong, K. Y., ... Schaefer, A. AGEWELL: Investigating the predictors of healthy neurocognitive ageing in a socioeconomically and ethnically diverse Malaysian cohort. *Poster presented at Annual Meeting of the Society for Neuroscience 2022, Singapore Chapter*. [http://doi.org/10.13140/RG.2.2.18928.74241](http://doi.org/10.13140/RG.2.2.18928.74241)
 
@@ -114,4 +114,4 @@ Student Investigator (Jan 2021 – Dec 2021)
 1. Goh, P. H., & Ong, J. Z. (2022). It's a guy thing: Sex as a moderator of the relationship between social anxiety and perception of interpersonal warmth in initial heterosexual interactions. *Asian Journal of Social Psychology, 25*(4), 806-815. [https://doi.org/10.1111/ajsp.12536](https://doi.org/10.1111/ajsp.12536).<br> 
 [Poster Available](http://doi.org/10.13140/RG.2.2.12484.85121).
  
-2. Koh, D. M., Ong, J. Z., & Goh, P. H. (in preparation). Helicopter Parenting and Social Competence among Single Malaysian Adults: Filial Piety as a Moderator.
+2. Koh, D. M., Ong, J. Z., & Goh, P. H. (Under Review). Helicopter Parenting and Social Competence among Single Malaysian Adults: Filial Piety as a Moderator.
