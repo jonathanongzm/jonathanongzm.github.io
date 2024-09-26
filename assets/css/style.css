@@ -23,17 +23,25 @@ body {
   margin: 0 20px 20px 0; /* Add margin to the right and bottom of the image */
 }
 
-/* Sticky Navbar */
-.navbar {
-  position: fixed; /* Changes position to fixed */
-  top: 0; /* Sticks the navbar to the top */
-  left: 0;
-  width: 100%; /* Takes the full width */
-  background-color: #fff; /* Adds a background color */
-  z-index: 1000; /* Ensures the navbar stays on top of other content */
-  text-align: center;
-  padding: 10px 0; /* Adds some padding */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adds a slight shadow for better visibility */
+/* Floating Profile Photo */
+.profile-photo {
+  float: left; /* Float the image to the left */
+  width: 260px; /* Set the default width */
+  border-radius: 10%; /* Round the image corners */
+  margin: 0 20px 20px 0; /* Add margin to the right and bottom of the image */
+}
+
+/* Adjust image size on smaller screens */
+@media (max-width: 768px) {
+  .profile-photo {
+    width: 200px; /* Reduce width on tablet-sized screens */
+  }
+}
+
+@media (max-width: 480px) {
+  .profile-photo {
+    width: 150px; /* Further reduce width on small screens (phones) */
+  }
 }
 
 /* Adjust body content to avoid overlap with navbar */
