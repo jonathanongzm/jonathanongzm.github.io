@@ -12,7 +12,7 @@ permalink: /research/
 
 <hr>
 
-## <a id="stars-project"></a>A Sociometric AI Screening Tool to Risk-Stratify Infant Neurodevelopmental Trajectories (STARS)
+## A Sociometric AI Screening Tool to Risk-Stratify Infant Neurodevelopmental Trajectories (STARS) <a id="stars-project"></a>
 <img src="/assets/images/stars_photo.jpg" alt="STARS Research Image" class="responsive-image">
 **Description**<br>
 The STARS project aims to develop a novel, scalable screening tool, the SociomeTric AI neurodevelopmental Risk Stratification (STARS) toolkit, to measure infant mental wellbeing from 6 months of age and guide clinical deployment and policy implementation in Singapore. By leveraging innovations in dyadic-EEG brain imaging and AI machine-learning methods, the STARS toolkit will provide a brief screening test, individual risk prediction, and a mobile app for clinicians to assess early neurodevelopmental trajectories. If successful, it could enable nationwide infant screening for neurodevelopmental disorders, improving early intervention and generating long-term benefits for education and healthcare.
@@ -37,7 +37,7 @@ Student Investigator (Jan 2023 - Dec 2024)
 
 <hr>
 
-## <a id="opto-mouse-model"></a>A Novel Optogenetic Parent-Offspring Mouse Model of Neural Synchrony and Social Learning
+## A Novel Optogenetic Parent-Offspring Mouse Model of Neural Synchrony and Social Learning <a id="opto-mouse-model"></a>
 <img src="/assets/images/opto_photo.jpg" alt="Opto Research Image" class="responsive-image">
 **Description**<br>
 This project aims to test whether interpersonal neural synchronization is causally necessary for social learning by manipulating neural synchronicity within parent-infant dyads using optogenetic methods. Optogenetics offers precise, light-based control of neural circuits, allowing selective activation or inhibition of specific neurons in transgenic animals to study their role in social learning.
@@ -61,6 +61,8 @@ Student Investigator (Jan 2023 - Dec 2024)
 
 **Output/Publications**<br> 
 1. Ham, G. X., Ong, J. Z., Augustine, G. J., & Leong, V. (2024). Protocol to study dam-pup social transmission using a modified paradigm for transmission of food preference. *STAR Protocols*, *5*(2), 103077. [https://doi.org/10.1016/j.xpro.2024.103077](https://doi.org/10.1016/j.xpro.2024.103077)
+
+2. Optogenetic synchronization of rodent dam-pup prefrontal cortex increases socially contingent behaviour and stable states for knowledge transmission (in preparation).
 <br>
 <hr>
 

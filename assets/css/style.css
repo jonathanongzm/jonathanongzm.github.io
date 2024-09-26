@@ -18,8 +18,8 @@ body {
 /* Floating Profile Photo */
 .profile-photo {
   float: left; /* Float the image to the left */
-  width: 280px; /* Set the desired width */
-  border-radius: 6%; /* Round the image corners */
+  width: 260px; /* Set the desired width */
+  border-radius: 10%; /* Round the image corners */
   margin: 0 20px 20px 0; /* Add margin to the right and bottom of the image */
 }
 
