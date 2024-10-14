@@ -135,11 +135,14 @@ Sabrin Fathima (2023 - 2024), Annika Tang (2023 - 2024), Tiong Yee Xuan (2023 - 
 
 ## Service
 
+- **Honorary General Secretary**  
+School of Social Sciences Graduate Student Association, Nanyang Technological University, *2023 - 2024*
+
 - **Volunteer Teacher for Refugee Children and Individuals with Disabilities**  
 Monash University Malaysia Volunteer Program, *2022*
 
 - **Advocate for an Equitable Psychology**  
-Organized the first and second Southeast Asian Indigenous Psychology Scientific Meeting, *2021 - 2022*
+Organized the first and second [Southeast Asian Indigenous Psychology Scientific Meeting](https://seaip2021.wixsite.com/sea-ip), *2021 - 2022*
 
 ---
 
