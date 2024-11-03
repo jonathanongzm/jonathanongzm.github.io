@@ -9,153 +9,168 @@ permalink: /cv/
 # Jonathan Z. Ong
 
 [jonathanzong98@gmail.com](mailto:jonathanzong98@gmail.com)  
-[https://jonathanongzm.github.io/](https://github.com/jonathanongzm)
+[https://jonathanongzm.github.io/](https://jonathanongzm.github.io/)
 <hr>
-## Education
 
-- **MA in Psychology (Developmental Cognitive Neuroscience)**  
-  Nanyang Technological University, *2023 - 2024*  
-  Advisor: Professor Victoria Leong
+## EDUCATION
 
-  - [**Sociometric AI Neurodevelopmental Risk Stratification (STARS)**:](https://jonathanongzm.github.io/research/#stars-project)  
-    Developing a scalable AI-based screening tool to predict neurodevelopmental risk profiles in children (6-36 months) using dyadic EEG and machine learning techniques. Leading data collection, preprocessing, and analysis of EEG/ECG signals; applying linear and non-linear modeling to assess developmental trajectories. Proficient in MATLAB, R, and Python for multimodal data analysis.
-  
-  - [**Optogenetic Parent-Child Mouse Model of Neural Synchrony and Social Learning**:](https://jonathanongzm.github.io/research/#opto-mouse-model)  
-    Investigating the causal role of neural synchronization in social learning using optogenetic methods. Managing transgenic mouse breeding and maintenance; performing genotyping, immunohistochemistry, and dynamical systems modeling.
+**Nanyang Technological University**, Singapore  
+MA in Psychology, *2023–2024*, GPA: 5.00/5.00<br>
+Advisors: Professors Victoria Leong and George Augustine  
 
-- **Bachelor of Psychological Science (Honours)**  
-Monash University, *2021*  
-Advisors: Dr Goh Pei Hwa & Dr Rachel Ting; GPA: 4.00/4.00
+[*Project: A Sociometric AI Screening Tool to Risk-Stratify Infant Neurodevelopmental Trajectories*](https://jonathanongzm.github.io/research/#stars-project)
 
-- **Bachelor of Psychological Science**  
-Monash University, *2017 - 2020*  
-GPA: 3.92/4.00
+- Collected, preprocessed, and analyzed multimodal time-series data, including EEG, ECG, and behavioral data from parent-child dyads using MATLAB, R, and Python.
+
+- Designed naturalistic tasks to assess executive functions and neurodevelopmental trajectories in children aged 6–36 months.
+
+[*Project: A Novel Optogenetic Parent-Offspring Mouse Model of Neural Synchrony and Social Learning*](https://jonathanongzm.github.io/research/#opto-mouse-model)
+
+- Adapted the social transmission of food preference paradigm for parent-child dyads, compatible with optogenetics and behavioral recording.
+
+- Managed mouse husbandry, including breeding, genotyping, and maintenance of transgenic lines.
+
+- Performed brain harvests and immunohistochemistry to verify optogenetic manipulation.
+
+- Thesis: Desynchronized Interbrain Neural Activity in the Medial Prefrontal Cortex Disrupts Behavior Contingencies and Parent-to-Child Transmission of Food Safety
+
+**Monash University**, Malaysia  
+BPsych(Hons), *2021*, GPA: 4.00/4.00, Best Graduate Award<br>
+*Thesis: The Relationship between Romantic Dispositions and Romantic Need Prioritization in Single Adult Malaysians: The Moderating Role of Gender*
+
+**Monash University**, Malaysia  
+BPsych, *2017–2020*, GPA: 3.92/4.00, Best Graduate Award<br>
 
 ---
 
-## Awards & Honors
+## HONORS & AWARDS
 
-- **A-STAR Studentship**  
-Nanyang Technological University, *2023 - 2024*  
-PI: Prof Victoria Leong
+**A\*STAR Fully-Sponsored Master's Studentship**  
+Nanyang Technological University (PI: Prof Victoria Leong), *2023–2024*
 
-- **Best Graduate Award**  
-Monash University Malaysia, *2022*
+**Two-Time Best Graduate Award Recipient**  
+Monash University Malaysia, *2020, 2021*
 
-- **Graduate Pathway Research Scholarship**  
-Monash University Malaysia, *2021*  
+**Graduate Pathway Research Scholarship (25% tuition fee waiver)**  
+Monash University Malaysia, *2021*
 
-- **Loan Exemption (RM 20,550)**<br>
+**Undergraduate Studies Loan Exemption (MYR 20,550 / ~USD 6,200)**  
 Malaysian National Higher Education Fund Corporation, *2021*
 
-- **Best Graduate Award**  
-Monash University Malaysia, *2020*
-
-- **Monash High Achiever Award**  
+**Monash High Achiever Award**  
 Monash University Malaysia, *2019*
 
 ---
 
-## Training
+## RESEARCH EXPERIENCE
 
-- **Research Assistant**  
-Ageing, Health, and Well-Being Research Centre, Sunway University, *2022*  
-PI: Professor Alexandre Schaefer
+**Nanyang Technological University**, Singapore\
+Graduate Research Assistant; *Jan 2024 – Present*, PI: Prof Victoria Leong\
+*Project: Assessing Social Influences on Executive Function in Infants*
 
-- **Research Assistant**  
-Liz Jones Lab, Monash University Malaysia, *2022*  
-PI: Professor Liz Jones
+- Coordinating an interdisciplinary team of psychologists, neuroscientists, engineers, and AI/data scientists to develop novel social interaction metrics for clinical and commercial applications.
 
-- **Research Assistant**  
-Culture and Health Lab, Monash University Malaysia, *2021 - 2022*  
-PI: Dr Rachel Ting
+**Sunway University**, Malaysia\
+Research Assistant; *Jul 2022 – Nov 2022*, PI: Prof Alexandre Schaefer\
+*Project: Aging, Health and Well-Being (AGEWELL)*
 
-- **Research Assistant**  
-Sexuality and Interpersonal Processes Lab, Monash University Malaysia, *2018 - 2021*  
-PI: Dr Goh Pei Hwa
+- Conducted community outreach to recruit a socioeconomically diverse Malaysian cohort aged 60 and above.
 
----
+- Collected and analyzed EEG, salivary, and neuropsychological data using R.
 
-## Peer-Reviewed Publications
+- Preprocessed EEG data and computed event-related potentials in MATLAB.
 
-1. Goh, P. H., & Ong, J. Z.* (2022). It’s a guy thing: Sex as a moderator of the relationship between social anxiety and perception of interpersonal warmth in initial heterosexual interactions. *Asian Journal of Social Psychology, 25*(4), 806-815. [https://doi.org/10.1111/ajsp.12536](https://doi.org/10.1111/ajsp.12536)
+**Monash University**, Malaysia\
+Undergraduate Research Assistant, *2018 – 2022*
 
-2. Ham, G. X., Ong, J. Z., Augustine, G. J., & Leong, V. (2024). Protocol to study dam-pup social transmission using a modified paradigm for transmission of food preference. *STAR Protocols, 5*(2), 103077. [https://doi.org/10.1016/j.xpro.2024.103077](https://doi.org/10.1016/j.xpro.2024.103077)
+- Conducted literature reviews and applied qualitative methods, including transcription, translation, and thematic coding, to investigate cultural differences in cancer stigma (PI: Prof Elizabeth Jones).
 
----
+- Collected and analyzed dyadic social interaction data from questionnaires and behavior coding to study social perceptions (PI: Dr Goh Pei Hwa).
 
-## In Preparation
-
-1. Koh, D. M., Ong, J. Z., & Goh, P. H. (Under Review). Helicopter Parenting and Social Competence among Single Malaysian Adults: Filial Piety as a Moderator.
-
-2. Vafa, S., Ong, J. Z., Yong, M. H., Arokiaraj, A. S., Shee, D., Chia, Y. C., & Schaefer, A. (Under Review). Online cognitive testing with Asian older adults during the Covid-19 pandemic: A proof-of-feasibility study. Preprint: [https://doi.org/10.31234/osf.io/t8exs](https://doi.org/10.31234/osf.io/t8exs)
-
-3. Optogenetic synchronization of rodent dam-pup prefrontal cortex increases socially contingent behavior and stable states for knowledge transmission (in preparation).
-
-4. Protocol for longitudinal imaging of parent–infant social interactive behavior and neurophysiology to assess emerging executive functions in infants with and without neurodevelopmental risks (in preparation).
+- Co-organized the first and second [Southeast Asian Indigenous Psychology Scientific Meeting](https://seaip2021.wixsite.com/sea-ip), *2021 and 2022* (Supervisor: Dr Rachel Sing-Kiat Ting).
 
 ---
 
-## Conference Posters & Others
+## PEER-REVIEWED PUBLICATIONS
 
-1. Marzuki, A. A., Thanaraju, A., Ong, J. Z., Yip, W. Z., Yap, Z. J., Wong, K. Y., ... Schaefer, A. (2022). AGEWELL: Investigating the predictors of healthy neurocognitive ageing in a socioeconomically and ethnically diverse Malaysian cohort. Poster awarded People’s Choice Award at the Annual Meeting of the Society for Neuroscience 2022, Singapore Chapter. [http://doi.org/10.13140/RG.2.2.18928.74241](http://doi.org/10.13140/RG.2.2.18928.74241)
+Goh, P. H., & Ong, J. Z.\* (2022). It’s a guy thing: Sex as a moderator of the relationship between social anxiety and perception of interpersonal warmth in initial heterosexual interactions. *Asian Journal of Social Psychology*, 25(4), 806–815. [https://doi.org/10.1111/ajsp.12536](https://doi.org/10.1111/ajsp.12536)
 
-2. Ong, J. Z. & Ong, P. H. (2022). It’s a guy thing: Sex as a moderator of the relationship between social anxiety and perception of interpersonal warmth in initial heterosexual interactions. Poster awarded 3rd Place for Best Poster Presentation at the Jeffrey Cheah School of Medicine and Health Sciences Research Symposium (2020). [http://dx.doi.org/10.13140/RG.2.2.12484.85121](http://dx.doi.org/10.13140/RG.2.2.12484.85121)
-
-3. Leong, V., Campolo, D., & Ong, J. Z. (2024). Understanding infants’ mental skills: New AI and sensor tools to measure development. *Nanyang Technological University Magazine: Pushing Frontiers, (23),* 22-23. [PDF](/assets/pdf/pushing_frontiers.pdf)
+Ham, G. X., Ong, J. Z., Augustine, G. J., & Leong, V. (2024). Protocol to study dam-pup social transmission using a modified paradigm for transmission of food preference. *STAR Protocols*, 5(2), 103077. [https://doi.org/10.1016/j.xpro.2024.103077](https://doi.org/10.1016/j.xpro.2024.103077)
 
 ---
 
-## Teaching
+## IN PREPARATION
 
-- **Graduate Student Tutor and Marker**  
-Nanyang Technological University, *2023 - 2024*
+Koh, D. M., Ong, J. Z., & Goh, P. H. (Under Review). Helicopter Parenting and Social Competence among Single Malaysian Adults: Filial Piety as a Moderator.
 
-- **Undergraduate Peer Tutor and Marker**  
-Monash University Malaysia, *2020 - 2022*
+Vafa, S., Ong, J. Z., Yong, M. H., Arokiaraj, A. S., Shee, D., Chia, Y. C., & Schaefer, A. (Under Review). Online cognitive testing with Asian older adults during the COVID-19 pandemic: A proof-of-feasibility study. Preprint: [https://doi.org/10.31234/osf.io/t8exs](https://doi.org/10.31234/osf.io/t8exs)
 
-- **English Teacher**  
-Italki, *2021 - 2022*
+Optogenetic synchronization of rodent dam-pup prefrontal cortex increases socially contingent behavior and stable states for knowledge transmission (in preparation).
 
-- **Elementary and High School Part-Time Teacher**  
-SK & SMK Bandar Tun Hussein Onn 2, *2017 - 2020*
-
+Protocol for longitudinal imaging of parent–infant social interactive behavior and neurophysiology to assess emerging executive functions in infants with and without neurodevelopmental risks (in preparation).
 
 ---
 
-## Mentoring 
+## CONFERENCE POSTERS & MEDIA
 
-- **Honors Thesis Students, Nanyang Technological University**  
-Megan Lim (2023 - 2024), Callie Toh (2024 - 2025)
+Marzuki, A. A., Thanaraju, A., Ong, J. Z., Yip, W. Z., Yap, Z. J., Wong, K. Y., ... Schaefer, A. (2022). AGEWELL: Investigating the predictors of healthy neurocognitive aging in a socioeconomically and ethnically diverse Malaysian cohort. Poster awarded People’s Choice Award at the Annual Meeting of the Society for Neuroscience 2022, Singapore Chapter. [http://doi.org/10.13140/RG.2.2.18928.74241](http://doi.org/10.13140/RG.2.2.18928.74241)
 
-- **Undergraduate Student Assistants, Nanyang Technological University**  
-Sabrin Fathima (2023 - 2024), Annika Tang (2023 - 2024), Tiong Yee Xuan (2023 - 2024)
+Ong, J. Z. & Goh, P. H. (2020). It’s a guy thing: Sex as a moderator of the relationship between social anxiety and perception of interpersonal warmth in initial heterosexual interactions. Poster awarded 3rd Place for Best Poster Presentation at the Jeffrey Cheah School of Medicine and Health Sciences Research Symposium (2020). [http://doi.org/10.13140/RG.2.2.12484.85121](http://doi.org/10.13140/RG.2.2.12484.85121)
 
----
-
-## Service
-
-- **Honorary General Secretary**  
-School of Social Sciences Graduate Student Association, Nanyang Technological University, *2023 - 2024*
-
-- **Volunteer Teacher for Refugee Children and Individuals with Disabilities**  
-Monash University Malaysia Volunteer Program, *2022*
-
-- **Advocate for an Equitable Psychology**  
-Organized the first and second [Southeast Asian Indigenous Psychology Scientific Meeting](https://seaip2021.wixsite.com/sea-ip), *2021 - 2022*
+Leong, V., Campolo, D., & Ong, J. Z. (2024). Understanding infants’ mental skills: New AI and sensor tools to measure development. *Nanyang Technological University Magazine: Pushing Frontiers*, (23), 22–23. [\[PDF\]](https://jonathanongzm.github.io/assets/pdf/pushing_frontiers.pdf)
 
 ---
 
-## Skills
+## TEACHING & MENTORING
 
-- **Wet Lab Skills**  
-Mouse Husbandry, Genotyping, Brain Harvest, Immunohistochemistry, Optogenetics
+**Nanyang Technological University**, Singapore
 
-- **Programming Languages**  
-R, MATLAB, Python
+- Teaching Assistant and Grader for Introductory Psychology (Fall 2023)
 
-- **Computational Methods**  
-Generalized Linear Modelling, Structural Equation Modelling, Dynamical Systems Modelling
+- Mentor for Honors Thesis Students: Megan Lim (2023–2024), Callie Toh (2024–Present)
 
-- **Experimental Methods**  
-EEG and ECG Hyperscanning, Naturalistic Behavioral Recordings, Parent-Infant Interactions, Task Development
+- Mentor for Undergraduate Research Assistants (2023–Present): Sabrin Fathima, Annika Tang, Tiong Yee Xuan
+
+**Monash University**, Malaysia
+
+- Grader for Biological Psychology, Developmental Psychology, Contemporary Social Psychology, and Research Theory and Methods (2022)
+
+- Peer Tutor for Introductory Psychology (Spring 2022), Research Methods and Theory (Fall 2021, 2022)
+
+- Volunteer English Teacher for Chin refugee children (Fall 2017)
+
+**SK & SMK Bandar Tun Hussein Onn 2**, Malaysia
+
+- Part-Time Elementary (Jun–Dec 2016) and High School (Feb–May 2017) Teacher
+
+---
+
+## SKILLS
+
+**Experimental Methods**
+  - EEG and ECG Hyperscanning
+  - Naturalistic Behavioral Recordings
+  - Parent-Infant Interactions
+  - Task Design and Development for Human and Rodent Models
+
+**Computational Skills**
+  - Proficient in R, MATLAB, Python, SPSS, JASP, and Statistica
+  - Generalized Linear Modeling
+  - Structural Equation Modeling
+  - Dynamical Systems Modeling
+  - Time Series Analysis
+  - Data Wrangling
+  - Data Visualization
+  - Analytical Pipeline Development
+  - Matrix Operations
+
+**Typesetting and Web Development**
+  - LaTeX for document typesetting
+  - HTML, CSS, and Ruby for website development
+
+**Wet Lab Skills**
+  - Mouse Husbandry
+  - Genotyping
+  - Brain Harvest
+  - Immunohistochemistry
+  - Optogenetics
