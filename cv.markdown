@@ -15,7 +15,7 @@ permalink: /cv/
 ## EDUCATION
 
 **Nanyang Technological University**, Singapore  
-MA in Psychology, *2023–2024*, GPA: 5.00/5.00<br>
+MA in Psychology, *Jan 2023–Dec 2024*, GPA: 5.00/5.00<br>
 Advisors: Professors Victoria Leong and George Augustine  
 
 [*Project: A Sociometric AI Screening Tool to Risk-Stratify Infant Neurodevelopmental Trajectories*](https://jonathanongzm.github.io/research/#stars-project)
@@ -35,18 +35,18 @@ Advisors: Professors Victoria Leong and George Augustine
 - Thesis: Desynchronized Interbrain Neural Activity in the Medial Prefrontal Cortex Disrupts Behavior Contingencies and Parent-to-Child Transmission of Food Safety
 
 **Monash University**, Malaysia  
-BPsych(Hons), *2021*, GPA: 4.00/4.00, Best Graduate Award<br>
+BPsych(Hons), *Mar 2021–Dec 2021*, GPA: 4.00/4.00, Best Graduate Award<br>
 *Thesis: The Relationship between Romantic Dispositions and Romantic Need Prioritization in Single Adult Malaysians: The Moderating Role of Gender*
 
 **Monash University**, Malaysia  
-BPsych, *2017–2020*, GPA: 3.92/4.00, Best Graduate Award<br>
+BPsych, *Jul 2017–Jul 2020*, GPA: 3.92/4.00, Best Graduate Award<br>
 
 ---
 
 ## HONORS & AWARDS
 
 **A\*STAR Fully-Sponsored Master's Studentship**  
-Nanyang Technological University (PI: Prof Victoria Leong), *2023–2024*
+Nanyang Technological University (PI: Prof Victoria Leong), *Jan 2023–Dec 2024*
 
 **Two-Time Best Graduate Award Recipient**  
 Monash University Malaysia, *2020, 2021*
