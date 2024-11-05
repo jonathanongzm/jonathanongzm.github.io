@@ -95,17 +95,17 @@ Undergraduate Research Assistant, *2018 – 2022*
 
 ## PEER-REVIEWED PUBLICATIONS
 
-Goh, P. H., & Ong, J. Z.\* (2022). It’s a guy thing: Sex as a moderator of the relationship between social anxiety and perception of interpersonal warmth in initial heterosexual interactions. *Asian Journal of Social Psychology*, 25(4), 806–815. [https://doi.org/10.1111/ajsp.12536](https://doi.org/10.1111/ajsp.12536)
+Goh, P. H., & **Ong, J. Z.\*** (2022). It’s a guy thing: Sex as a moderator of the relationship between social anxiety and perception of interpersonal warmth in initial heterosexual interactions. *Asian Journal of Social Psychology*, 25(4), 806–815. [https://doi.org/10.1111/ajsp.12536](https://doi.org/10.1111/ajsp.12536)
 
-Ham, G. X., Ong, J. Z., Augustine, G. J., & Leong, V. (2024). Protocol to study dam-pup social transmission using a modified paradigm for transmission of food preference. *STAR Protocols*, 5(2), 103077. [https://doi.org/10.1016/j.xpro.2024.103077](https://doi.org/10.1016/j.xpro.2024.103077)
+Ham, G. X., **Ong, J. Z.**, Augustine, G. J., & Leong, V. (2024). Protocol to study dam-pup social transmission using a modified paradigm for transmission of food preference. *STAR Protocols*, 5(2), 103077. [https://doi.org/10.1016/j.xpro.2024.103077](https://doi.org/10.1016/j.xpro.2024.103077)
 
 ---
 
 ## IN PREPARATION
 
-Koh, D. M., Ong, J. Z., & Goh, P. H. (Under review). Helicopter Parenting and Social Competence among Single Malaysian Adults: Filial Piety as a Moderator. *Current Psychology*.
+Koh, D. M., **Ong, J. Z.**, & Goh, P. H. (Under review). Helicopter Parenting and Social Competence among Single Malaysian Adults: Filial Piety as a Moderator. *Current Psychology*.
 
-Vafa, S., Ong, J. Z., Yong, M. H., Arokiaraj, A. S., Shee, D., Chia, Y. C., & Schaefer, A. (Revised and resubmitted). Online cognitive testing with Asian older adults during the COVID-19 pandemic: A proof-of-feasibility study. Preprint: [https://doi.org/10.31234/osf.io/t8exs](https://doi.org/10.31234/osf.io/t8exs). *BMC Psychology*.
+Vafa, S., **Ong, J. Z.**, Yong, M. H., Arokiaraj, A. S., Shee, D., Chia, Y. C., & Schaefer, A. (Revised and resubmitted). Online cognitive testing with Asian older adults during the COVID-19 pandemic: A proof-of-feasibility study. Preprint: [https://doi.org/10.31234/osf.io/t8exs](https://doi.org/10.31234/osf.io/t8exs). *BMC Psychology*.
 
 Optogenetic synchronization of rodent dam-pup prefrontal cortex increases socially contingent behavior and stable states for knowledge transmission (in preparation).
 
@@ -115,11 +115,11 @@ Protocol for longitudinal imaging of parent–infant social interactive behavior
 
 ## CONFERENCE POSTERS & MEDIA
 
-Marzuki, A. A., Thanaraju, A., Ong, J. Z., Yip, W. Z., Yap, Z. J., Wong, K. Y., ... Schaefer, A. (2022). AGEWELL: Investigating the predictors of healthy neurocognitive aging in a socioeconomically and ethnically diverse Malaysian cohort. Poster awarded People’s Choice Award at the Annual Meeting of the Society for Neuroscience 2022, Singapore Chapter. [http://doi.org/10.13140/RG.2.2.18928.74241](http://doi.org/10.13140/RG.2.2.18928.74241)
+Marzuki, A. A., Thanaraju, A., **Ong, J. Z.**, Yip, W. Z., Yap, Z. J., Wong, K. Y., ... Schaefer, A. (2022). AGEWELL: Investigating the predictors of healthy neurocognitive aging in a socioeconomically and ethnically diverse Malaysian cohort. Poster awarded People’s Choice Award at the Annual Meeting of the Society for Neuroscience 2022, Singapore Chapter. [http://doi.org/10.13140/RG.2.2.18928.74241](http://doi.org/10.13140/RG.2.2.18928.74241)
 
-Ong, J. Z. & Goh, P. H. (2020). It’s a guy thing: Sex as a moderator of the relationship between social anxiety and perception of interpersonal warmth in initial heterosexual interactions. Poster awarded 3rd Place for Best Poster Presentation at the Jeffrey Cheah School of Medicine and Health Sciences Research Symposium (2020). [http://doi.org/10.13140/RG.2.2.12484.85121](http://doi.org/10.13140/RG.2.2.12484.85121)
+**Ong, J. Z.** & Goh, P. H. (2020). It’s a guy thing: Sex as a moderator of the relationship between social anxiety and perception of interpersonal warmth in initial heterosexual interactions. Poster awarded 3rd Place for Best Poster Presentation at the Jeffrey Cheah School of Medicine and Health Sciences Research Symposium (2020). [http://doi.org/10.13140/RG.2.2.12484.85121](http://doi.org/10.13140/RG.2.2.12484.85121)
 
-Leong, V., Campolo, D., & Ong, J. Z. (2024). Understanding infants’ mental skills: New AI and sensor tools to measure development. *Nanyang Technological University Magazine: Pushing Frontiers*, (23), 22–23. [PDF](https://jonathanongzm.github.io/assets/pdf/pushing_frontiers.pdf)
+Leong, V., Campolo, D., & **Ong, J. Z.** (2024). Understanding infants’ mental skills: New AI and sensor tools to measure development. *Nanyang Technological University Magazine: Pushing Frontiers*, (23), 22–23. [PDF](https://jonathanongzm.github.io/assets/pdf/pushing_frontiers.pdf)
 
 ---
 
