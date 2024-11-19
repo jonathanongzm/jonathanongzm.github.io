@@ -47,7 +47,7 @@ BPsych, *Jul 2017–Jul 2020*, GPA: 3.92/4.00, Best Graduate Award
 
 ## HONORS & AWARDS
 
-**A\*STAR Fully-Sponsored Master's Studentship**  
+**A\*STAR Fully-Sponsored Master's Studentship (~USD 70,000)**  
 Nanyang Technological University (PI: Prof Victoria Leong), *Jan 2023–Jan 2025*
 
 **Two-Time Best Graduate Award Recipient**  
@@ -59,7 +59,7 @@ BPsych(Hons), Monash University Malaysia, *2021*
 **Undergraduate Studies Loan Exemption (~USD 6,200)**  
 BPsych, Malaysian National Higher Education Fund Corporation, *2021*
 
-**Monash High Achiever Award**  
+**Monash High Achiever Award (~USD 1,100)**  
 BPsych, Monash University Malaysia, *2019*
 
 ---
