@@ -67,7 +67,7 @@ BPsych, Monash University Malaysia, *2019*
 ## RESEARCH EXPERIENCE
 
 **Nanyang Technological University**, Singapore  
-Graduate Research Assistant; *Jan 2024 – Present*, PI: Prof Victoria Leong  
+Graduate Research Assistant; *Jan 2024 – Present*, PI: Professor Victoria Leong  
 *Project: Assessing Social Influences on Executive Function in Infants*
 
 - Coordinating an interdisciplinary team of psychologists, neuroscientists, engineers, and AI/data scientists to develop novel social interaction metrics for clinical and commercial applications.
@@ -103,7 +103,7 @@ Ham, G. X., **Ong, J. Z.**, Augustine, G. J., & Leong, V. (2024). Protocol to st
 
 ## IN PREPARATION
 
-Koh, D. M., **Ong, J. Z.**, & Goh, P. H. (Under review). Helicopter Parenting and Social Competence among Single Malaysian Adults: Filial Piety as a Moderator. *Current Psychology*.
+Koh, D. M., **Ong, J. Z.**, & Goh, P. H. (Under review). Helicopter parenting and social competence among single Malaysian adults: Filial piety as a moderator. *Current Psychology*.
 
 Vafa, S., **Ong, J. Z.**, Yong, M. H., Arokiaraj, A. S., Shee, D., Chia, Y. C., & Schaefer, A. (Revised and resubmitted). Online cognitive testing with Asian older adults during the COVID-19 pandemic: A proof-of-feasibility study. Preprint: [https://doi.org/10.31234/osf.io/t8exs](https://doi.org/10.31234/osf.io/t8exs). *BMC Psychology*.
 
