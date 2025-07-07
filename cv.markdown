@@ -15,7 +15,7 @@ permalink: /cv/
 ## EDUCATION
 
 **Nanyang Technological University**, Singapore  
-MA in Psychology, *Jan 2023–Jan 2025*, GPA: 5.00/5.00  
+MA in Psychology, *Jan 2023–Jun 2025*, GPA: 5.00/5.00  
 Advisors: Professors Victoria Leong and George Augustine
 
 *Project: Sociometric AI Screening Tool to Risk-Stratify Infant Neurodevelopmental Trajectories*
@@ -34,7 +34,7 @@ Advisors: Professors Victoria Leong and George Augustine
 
 - Performed brain harvests and immunohistochemistry to verify optogenetic manipulation in the medial prefrontal cortex.
 
-- Thesis: Desynchronized Interbrain Neural Activity in the Medial Prefrontal Cortex Disrupts Behavior Contingencies and Mouse Parent-to-Child Transmission of Food Safety.
+- Thesis: Interpersonal Neural Synchrony Mechanisms for Parent-Offspring Social Learning.
 
 **Monash University**, Malaysia  
 BPsych(Hons), *Mar 2021–Dec 2021*, GPA: 4.00/4.00, Best Graduate Award  
@@ -67,7 +67,7 @@ BPsych, Monash University Malaysia, *2019*
 ## RESEARCH EXPERIENCE
 
 **Nanyang Technological University**, Singapore  
-Graduate Research Assistant; *Jan 2024 – Present*, PI: Professor Victoria Leong  
+Research Assistant; *Jan 2024 – Present*, PI: Professor Victoria Leong  
 *Project: Assessing Social Influences on Executive Function in Infants*
 
 - Coordinating an interdisciplinary team of psychologists, neuroscientists, engineers, and AI/data scientists to develop novel social interaction metrics for clinical and commercial applications.
@@ -83,7 +83,7 @@ Research Assistant; *Jul 2022 – Nov 2022*, PI: Professor Alexandre Schaefer
 - Performed general linear modeling in R to investigate the protective role of cognitive reserve against cognitive decline in older adults.
 
 **Monash University**, Malaysia  
-Undergraduate Research Assistant, *2018 – 2022*
+Research Assistant, *2018 – 2022*
 
 - Conducted literature reviews and applied qualitative methods, including transcription, Malay to English translation, and thematic coding, to investigate cultural differences in cancer stigma (PI: Professor Elizabeth Jones).
 
@@ -103,17 +103,13 @@ Ham, G. X., **Ong, J. Z.**, Augustine, G. J., & Leong, V. (2024). Protocol to st
 
 ## IN PREPARATION
 
-Koh, D. M., **Ong, J. Z.**, & Goh, P. H. (Under review). Helicopter parenting and social competence among single Malaysian adults: Filial piety as a moderator. *Current Psychology*.
+Koh, D. M., **Ong, J. Z.**, & Goh, P. H. (Under review). Helicopter parenting and social competence among single Malaysian adults: Filial piety as a moderator. *Journal of Adolescent Development*.
 
-Vafa, S., **Ong, J. Z.**, Yong, M. H., Arokiaraj, A. S., Shee, D., Chia, Y. C., & Schaefer, A. (Revised and resubmitted). Online cognitive testing with Asian older adults during the COVID-19 pandemic: A proof-of-feasibility study. Preprint: [https://doi.org/10.31234/osf.io/t8exs](https://doi.org/10.31234/osf.io/t8exs). *BMC Psychology*.
-
-Optogenetic synchronization of rodent dam-pup prefrontal cortex increases socially contingent behavior and stable states for knowledge transmission (in preparation).
-
-Protocol for longitudinal imaging of parent–infant social interactive behavior and neurophysiology to assess emerging executive functions in infants with and without neurodevelopmental risks (in preparation).
+Vafa, S., **Ong, J. Z.**, Yong, M. H., Arokiaraj, A. S., Shee, D., Chia, Y. C., & Schaefer, A. (Revised and resubmitted). Online cognitive testing with Asian older adults during the COVID-19 pandemic: A proof-of-feasibility study. Preprint: [https://doi.org/10.31234/osf.io/t8exs](https://doi.org/10.31234/osf.io/t8exs). *Behavior Research Methods*.
 
 ---
 
-## CONFERENCE POSTERS & MEDIA
+## CONFERENCE POSTERS, INVITED TALK & MEDIA
 
 Marzuki, A. A., Thanaraju, A., **Ong, J. Z.**, Yip, W. Z., Yap, Z. J., Wong, K. Y., ... Schaefer, A. (2022). AGEWELL: Investigating the predictors of healthy neurocognitive aging in a socioeconomically and ethnically diverse Malaysian cohort. Poster awarded People’s Choice Award at the Annual Meeting of the Society for Neuroscience 2022, Singapore Chapter. [http://doi.org/10.13140/RG.2.2.18928.74241](http://doi.org/10.13140/RG.2.2.18928.74241)
 
@@ -121,15 +117,17 @@ Marzuki, A. A., Thanaraju, A., **Ong, J. Z.**, Yip, W. Z., Yap, Z. J., Wong, K. 
 
 Leong, V., Campolo, D., & **Ong, J. Z.** (2024). Understanding infants’ mental skills: New AI and sensor tools to measure development. *Nanyang Technological University Magazine: Pushing Frontiers*, (23), 22–23. [PDF](https://jonathanongzm.github.io/assets/pdf/pushing_frontiers.pdf)
 
+Invited Speaker, [Ethics First – Treating Your Participants Right](https://jonathanongzm.github.io/assets/pdf/ethics_talk_flyer.pdf), Research Integrity and Ethics Office, Nanyang Technological University, 27 May 2025.
+
 ---
 
 ## TEACHING & MENTORING
 
 **Nanyang Technological University**, Singapore
 
-- Teaching Assistant and Grader for Introductory Psychology (Fall 2023).
+- Teaching Assistant and Grader for Introductory Psychology (Fall 2023, Spring 2025).
 
-- Mentor for two Thesis students and three Undergraduate RAs (2023–Present).
+- Co-mentor to 9 thesis students and 9 undergraduate RAs, providing training in research methodology, ethics and data management, data collection, and analysis.
 
 **Monash University**, Malaysia
 

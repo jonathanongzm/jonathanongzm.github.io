@@ -79,14 +79,14 @@ body {
 /* Navbar Links */
 .navbar ul li a {
   text-decoration: none;
-  color: #a472e6;
+  color: #6699FF;
   font-weight: bold;
   font-size: 16px; /* Adjust the font size */
 }
 
 a {
   text-decoration: none;
-  color: #a472e6;
+  color: #6699FF;
 }
 
 a:hover {
