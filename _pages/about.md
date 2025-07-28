@@ -35,6 +35,7 @@ Jonathan currently works closely with mothers and infants in studies of early co
 
 In parallel, he is part of an interdisciplinary team developing an end-to-end pipeline for the automated extraction of social interaction indices from naturalistic parent–infant play. The pipeline integrates multimodal behavioral and physiological data and will contribute to one of the largest curated datasets of its kind. The dataset will be used to train a model that can predict infant neurodevelopmental profiles from as early as 12 months of age, with applications in both clinical and commercial settings.
 
+### Simulated EEG Signals Over a 1-Second Window
 <!-- EEG demo -->
 <link rel="stylesheet" href="{{ '/assets/css/eeg-animation.css' | relative_url }}">
 
