@@ -1,0 +1,23 @@
+# How to run the website locally and push changes
+
+1.  Open **Git Bash**  
+2.  Start **Docker Desktop**  
+3.  Change to the site directory:
+
+    cd "/c/Users/jonat/OneDrive - Nanyang Technological University/Desktop/jonathanongzm.github.io"
+
+4.  Build / update the container and serve the site:
+
+    docker compose pull
+    docker compose up
+
+5.  Preview in your browser:
+
+    http://localhost:4000
+
+6.  Save edits to GitHub:
+
+    git status          # see changed files
+    git add .
+    git commit -m "Update site content"
+    git push origin main
