@@ -146,12 +146,24 @@ newsletter:
 collections:
   books:
     output: true
-  news:
     defaults:
-      layout: post
+      - scope: {}
+        values:
+          search: false      # ← hide every item in _books/
+
+  news:
     output: true
+    defaults:
+      - scope: {}
+        values:
+          search: false      # already added
+
   projects:
     output: true
+    defaults:
+      - scope: {}
+        values:
+          search: false      # already added
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
