@@ -1,0 +1,35 @@
+/*  EEG Animation styles
+    Save this file as: assets/css/eeg-animation.css
+-------------------------------------------------------------- */
+
+/* Canvas container (optional wrapper) */
+.eeg-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+/* The canvas itself */
+#eegCanvas {
+  display: block;
+  width: 100%;          /* responsive width */
+  height: auto;         /* keep aspect ratio */
+  margin: 0 auto;      /* ← horizontally centres the block */
+  border: 1px solid #ddd;
+  background-color: #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+/* Smaller tablet screens */
+@media (max-width: 768px) {
+  #eegCanvas {
+    max-width: 600px;
+  }
+}
+
+/* Phones */
+@media (max-width: 480px) {
+  #eegCanvas {
+    max-width: 320px;
+  }
+}
