@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/img/screenshot-home.png" alt="Site screenshot" width="800">
-</p>
-
 # Jonathan Z. Ong – Academic Website
 
 This repository hosts the source for my personal research site built with the
