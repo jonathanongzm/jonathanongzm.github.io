@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Jonathan is a research assistant at the Early Mental Potential and Well-Being (EMPOWER) Centre at Nanyang Technological University, Singapore. His research interests include how infants use social cues to represent agents and make sense of social interactions. He is also interested in how these early capacities support selective learning and scaffold their intuitive theories about the world.
+Jonathan is a research assistant at the [Early Mental Potential and Well-Being (EMPOWER) Centre](https://www.ntu.edu.sg/empower) at Nanyang Technological University, Singapore. His research interests include how infants use social cues to represent agents and make sense of social interactions. He is also interested in how these early capacities support selective learning and scaffold their intuitive theories about the world.
 
 He received his Bachelor of Psychological Science (Hons) from Monash University Malaysia in 2021, where he studied interpersonal perceptions in emerging adults. He then completed his M.A. in Psychology (Developmental Cognitive Neuroscience) at EMPOWER, where his thesis examined the neural basis of parent-to-child social transmission of information.
 
