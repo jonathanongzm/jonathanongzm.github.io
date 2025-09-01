@@ -13,7 +13,7 @@
 
 5.  Preview in your browser:
 
-    http://localhost:4000
+http://localhost:8080/
 
 6.  Save edits to GitHub:
 
