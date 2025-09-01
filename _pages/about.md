@@ -25,15 +25,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Jonathan is a research assistant at the [Early Mental Potential and Well-Being (EMPOWER) Centre](https://www.ntu.edu.sg/empower) at Nanyang Technological University, Singapore. His research interests include how infants use social cues to represent agents and make sense of social interactions. He is also interested in how these early capacities support selective learning and scaffold their intuitive theories about the world.
+Jonathan is a research assistant at the [Early Mental Potential and Well-Being (EMPOWER) Centre](https://www.ntu.edu.sg/empower) at Nanyang Technological University, Singapore. His research interests include how infants represent people and the communication that unfolds within social interactions. He is especially interested in how cognition emerges through the dynamic interplay between infants’ own agency and the broader social contexts in which they are embedded.
 
 He received his Bachelor of Psychological Science (Hons) from Monash University Malaysia in 2021, where he studied interpersonal perceptions in emerging adults. He then completed his M.A. in Psychology (Developmental Cognitive Neuroscience) at EMPOWER, where his thesis examined the neural basis of parent-to-child social transmission of information.
 
 In his master’s research, he employed optogenetic techniques to synchronize or desynchronize medial prefrontal cortical activity in mouse dams and pups, causally demonstrating downstream effects on social behavior and learning. Using a dynamical systems approach, he showed that interbrain synchrony extends periods of social contingency and modulates explore-exploit trade-offs in foraging decisions.
 
-Jonathan currently works closely with mothers and infants in studies of early cognitive and social development. He designs naturalistic tasks to evaluate executive function in young children at risk of neurodevelopmental disorders, and collects and processes dyadic EEG, ECG and multimodal behavioural data.
+Jonathan currently works closely with mothers and infants to study how early cognitive and social abilities develop. His research uses naturalistic play-based tasks to assess executive function in young children at risk for neurodevelopmental disorders, while capturing dyadic EEG, ECG, and behavioral measures to characterize patterns within parent–child interactions.
 
-In parallel, he is part of an interdisciplinary team developing an end-to-end pipeline for the automated extraction of social interaction indices from naturalistic parent–infant play. The pipeline integrates multimodal behavioral and physiological data and will contribute to one of the largest curated datasets of its kind. The dataset will be used to train a model that can predict infant neurodevelopmental profiles from as early as 12 months of age, with applications in both clinical and commercial settings.
+In parallel, he is part of an interdisciplinary team developing an end-to-end pipeline for the automated extraction of social interaction indices from naturalistic parent–infant play. The pipeline integrates multimodal behavioral and physiological data and will contribute to one of the largest curated datasets of its kind. The dataset will be used to train models that predict infant neurodevelopmental profiles from as early as 12 months of age, with applications in both clinical and commercial settings.
 
 #### Simulated EEG Signals Over a 1-Second Window
 <!-- EEG demo -->

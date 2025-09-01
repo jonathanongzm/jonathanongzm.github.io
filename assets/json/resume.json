@@ -6,7 +6,7 @@
     "image": "",
     "email": "jonathanzong98[at]gmail[dot]com",
     "url": "https://jonathanongzm.github.io/",
-    "summary": "Research assistant interested in infant social cognition, parent–child synchrony, and multimodal neurophysiological methods (EEG, ECG, behavior). Experienced in experimental design, analytical pipeline development, and cross‑disciplinary team coordination.",
+    "summary": "Research assistant working on on infant social cognition and early risk screening, modeling parent–infant synchrony across behavior (video/annotations), brain (EEG), and physiology (ECG). Builds play-based, naturalistic tasks; develops end-to-end pipelines that derive novel social interaction metrics; and constructs large multimodal datasets for predictive modeling and clinical translation. Experience spans optogenetic rodent models, dynamical systems approaches, and cross-disciplinary collaboration.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -28,18 +28,17 @@
     ]
   },
 
-  "work": [
-    {
-      "name": "Nanyang Technological University",
-      "position": "Research Assistant",
-      "url": "https://www.ntu.edu.sg/",
-      "startDate": "2024-01",
-      "summary": "Coordinate an interdisciplinary team (psychologists, neuroscientists, engineers, AI/data‑scientists) developing novel social‑interaction metrics for infant executive‑function prediction.",
-      "highlights": [
-        "Perform multimodal data collection and preprocessing (EEG, ECG, behavior) for parent‑infant dyads.",
-        "Design naturalistic tasks assessing executive functions in 6–36‑month‑olds.",
-        "Develop pipelines to synchronise data streams and compute dyadic behavioral and neural metrics."
-      ]
+"work": [
+  {
+    "name": "Nanyang Technological University, Singapore",
+    "position": "Research Assistant",
+    "url": "https://www.ntu.edu.sg/",
+    "startDate": "2024-01",
+    "summary": "Developing an end-to-end pipeline integrating multimodal parent–infant play data (EEG, ECG, video, behavioral annotations) to derive novel social interaction metrics and train predictive models for early neurodevelopmental risk.",
+    "highlights": [
+       "Curate one of the largest datasets of its kind to train predictive models of infant neurodevelopmental profiles from as early as 12 months.",
+      "Advance clinical translation by designing novel social interaction metrics with applications in both diagnostic and commercial settings."
+    ]
     },
     {
       "name": "Sunway University",
@@ -47,11 +46,11 @@
       "url": "https://university.sunway.edu.my/",
       "startDate": "2022-07",
       "endDate": "2022-11",
-      "summary": "AGEWELL project on neurocognitive ageing in Malaysia.",
+      "summary": "AGEWELL project on cognitive aging in a socioeconomically diverse Malaysian cohort.",
       "highlights": [
-        "Recruited socio‑economically diverse older‑adult cohort (60+ years).",
-        "Administered neuropsychological assessments and EEG recordings.",
-        "Performed ERP preprocessing in MATLAB and GLM analyses in R."
+        "Recruited and assessed older adults (60+) with neuropsychological testing and EEG.",
+        "Derived event-related potentials as neural markers of executive function and aging-related decline.",
+        "Examined the protective role of cognitive reserve against age-related cognitive decline."
       ]
     },
     {
@@ -60,11 +59,11 @@
       "url": "https://www.monash.edu.my/",
       "startDate": "2018-01",
       "endDate": "2022-12",
-      "summary": "Supported multiple social‑psychology and cultural‑psychology projects.",
+      "summary": "Supported social- and cultural-psychology projects on stigma, dyadic interaction, and indigenous psychology.",
       "highlights": [
-        "Conducted literature reviews; transcribed and translated qualitative data.",
-        "Applied Actor‑Partner Interdependence Models to dyadic interaction data.",
-        "Co‑organised the Southeast Asian Indigenous Psychology Scientific Meetings (2021, 2022)."
+        "Conducted literature reviews and qualitative analyses (transcription, Malay-to-English translation, thematic coding) on cancer stigma.",
+        "Applied the Actor–Partner Interdependence Model (APIM) to dyadic social-interaction data.",
+        "Co-organized the Southeast Asian Indigenous Psychology Scientific Meetings (2021, 2022)."
       ]
     },
     {
@@ -73,14 +72,14 @@
       "url": "https://www.ntu.edu.sg/",
       "startDate": "2023-08",
       "endDate": "2025-05",
-      "summary": "Graded coursework and facilitated tutorials."
+      "summary": "Introductory Psychology (Fall 2023; Spring 2025): graded coursework and facilitated tutorials."
     },
     {
-      "name": "SK & SMK Bandar Tun Hussein Onn 2 (Malaysia)",
-      "position": "Part‑Time Teacher",
+      "name": "SK & SMK Bandar Tun Hussein Onn 2 (Malaysia)",
+      "position": "Part-Time Teacher",
       "startDate": "2016-06",
       "endDate": "2017-05",
-      "summary": "Taught elementary and high‑school classes (~30 students per class)."
+      "summary": "Taught elementary and high-school classes (≈30 students per class)."
     }
   ],
 
@@ -95,11 +94,11 @@
     },
     {
       "organization": "Southeast Asian Indigenous Psychology Scientific Meeting",
-      "position": "Co‑Organiser",
+      "position": "Co-Organizer",
       "url": "https://seaip2021.wixsite.com/sea-ip",
       "startDate": "2021-01",
       "endDate": "2022-12",
-      "summary": "Co‑ordinated two international meetings bringing regional scholars together to advance indigenous psychology."
+      "summary": "Coordinated two international meetings bringing regional scholars together to advance indigenous psychology."
     }
   ],
 
@@ -111,9 +110,9 @@
       "studyType": "Master of Arts",
       "startDate": "2023-01",
       "endDate": "2025-06",
-      "score": "GPA 5.00/5.00",
+      "score": "GPA 5.00/5.00",
       "thesis": "Interpersonal Neural Synchrony Mechanisms for Parent–Offspring Social Learning",
-      "summary": "Multimodal project (EEG, ECG, behavior) and optogenetic mouse model investigating neural mechanisms of social learning."
+      "summary": "Multimodal project (EEG, ECG, behavior) and an optogenetic mouse model investigating neural mechanisms of social learning."
     },
     {
       "institution": "Monash University Malaysia",
@@ -122,7 +121,7 @@
       "studyType": "Bachelor of Psychology (Hons)",
       "startDate": "2021-03",
       "endDate": "2021-12",
-      "score": "GPA 4.00/4.00, Best Graduate Award",
+      "score": "GPA 4.00/4.00, Best Graduate Award",
       "thesis": "Romantic Dispositions and Romantic Need Prioritization in Single Adult Malaysians: The Moderating Role of Gender"
     },
     {
@@ -132,16 +131,16 @@
       "studyType": "Bachelor of Psychology",
       "startDate": "2017-07",
       "endDate": "2020-07",
-      "score": "GPA 3.92/4.00, Best Graduate Award"
+      "score": "GPA 3.92/4.00, Best Graduate Award"
     }
   ],
 
   "awards": [
     {
-      "title": "A*STAR Fully‑Sponsored Master’s Studentship",
+      "title": "A*STAR Fully-Sponsored Master’s Studentship",
       "date": "2023",
       "awarder": "Agency for Science, Technology and Research & Nanyang Technological University",
-      "summary": "Full tuition and stipend (~USD 70,000) for MA studies."
+      "summary": "Full tuition and stipend (∼USD 70,000) for MA studies."
     },
     {
       "title": "Best Graduate Award",
@@ -153,13 +152,13 @@
       "title": "Graduate Pathway Research Scholarship",
       "date": "2021",
       "awarder": "Monash University Malaysia",
-      "summary": "Competitive research scholarship (~USD 2,400)."
+      "summary": "Competitive research scholarship (∼USD 2,400)."
     },
     {
       "title": "Undergraduate Studies Loan Exemption",
       "date": "2021",
       "awarder": "Malaysian National Higher Education Fund Corporation",
-      "summary": "Full exemption (~USD 6,200) for outstanding academic performance."
+      "summary": "Full exemption (∼USD 6,200) for outstanding academic performance."
     },
     {
       "title": "Best Graduate Award",
@@ -171,7 +170,7 @@
       "title": "Monash High Achiever Award",
       "date": "2019",
       "awarder": "Monash University Malaysia",
-      "summary": "Merit scholarship (~USD 1,100)."
+      "summary": "Merit scholarship (∼USD 1,100)."
     }
   ],
 
@@ -181,38 +180,40 @@
       "publisher": "Asian Journal of Social Psychology",
       "releaseDate": "2022-04-22",
       "url": "https://doi.org/10.1111/ajsp.12536",
-      "summary": "Examines sex differences in how social anxiety influences perceived warmth in first‑time heterosexual interactions."
+      "summary": "Examines sex differences in how social anxiety influences perceived warmth in first-time heterosexual interactions."
     },
     {
-      "name": "Protocol to study dam‑pup social transmission using a modified paradigm for transmission of food preference",
+      "name": "Protocol to study dam–pup social transmission using a modified paradigm for transmission of food preference",
       "publisher": "STAR Protocols",
       "releaseDate": "2024-06-21",
       "url": "https://doi.org/10.1016/j.xpro.2024.103077",
-      "summary": "Presents an optogenetic‑compatible protocol to investigate neural mechanisms of social learning in mouse dam‑pup dyads."
+      "summary": "Presents an optogenetic-compatible protocol to investigate neural mechanisms of social learning in mouse dam–pup dyads."
     }
   ],
 
   "projects": [
     {
       "name": "Sociometric AI Screening Tool to Risk-Stratify Infant Neurodevelopmental Trajectories",
-      "summary": "Multimodal (EEG, ECG, behavior) AI pipeline to risk‑stratify infant neurodevelopmental trajectories.",
+      "summary": "Developing an early-screening framework from naturalistic parent–child interactions with children aged 6–36 months to identify neurodevelopmental risk.",
       "highlights": [
-        "Task design for executive‑function assessment in 6–36‑month‑olds.",
-        "Data‑stream synchronisation and novel metric computation."
+        "Developed play-based tasks indexing working memory, inhibition, and cognitive flexibility in naturalistic parent–child contexts.",
+        "Linked social contingency and EEG/ECG synchrony to emerging executive functions.",
+        "Validated social interaction metrics against clinician ratings and standardized developmental screens for clinical translation."
       ],
       "startDate": "2023-01",
-      "endDate": "Present",
+      "endDate": "2025-06",
       "url": ""
     },
     {
-      "name": "Optogenetic Parent-Offspring Mouse Model of Neural Synchrony and Social Learning",
-      "summary": "Adapted social transmission of food preference paradigm with optogenetics to probe causal role of prefrontal synchrony in social learning.",
+      "name": "Optogenetic Parent–Offspring Mouse Model of Neural Synchrony and Social Learning",
+      "summary": "Integrated behavioral assays with optogenetics to test the causal role of prefrontal neural synchrony in naturalistic parent–offspring social learning",
       "highlights": [
-        "Breeding and genotyping PV‑Cre/ChR2 mouse lines.",
-        "In vivo optogenetic manipulation and histological verification."
+        "Applied recurrence quantification analysis to dam–pup interactions and foraging behavior.",
+        "In vivo optogenetic manipulation; immunohistochemical verification of medial prefrontal targeting.",
+        "Maintained and validated transgenic lines (e.g., PV-Cre/ChR2)."
       ],
       "startDate": "2023-01",
-      "endDate": "Present",
+      "endDate": "2025-06",
       "url": ""
     }
   ],
@@ -222,7 +223,7 @@
       "name": "Experimental Methods",
       "keywords": [
         "EEG/ECG hyperscanning",
-        "Naturalistic parent‑infant paradigms",
+        "Naturalistic parent–infant paradigms",
         "Rodent behavioral assays",
         "Task design"
       ]
@@ -233,11 +234,12 @@
         "R",
         "MATLAB",
         "Python",
-        "Generalized Linear Models",
-        "Mixed‑Effects Models",
-        "Structural Equation Modeling",
-        "Time‑Series Analysis",
-        "Data Visualisation"
+        "Generalized linear models",
+        "Mixed-effects models",
+        "Structural equation modeling",
+        "Time-series analysis",
+        "Data visualization",
+        "Dynamical-systems modeling"
       ]
     },
     {
@@ -249,7 +251,7 @@
       ]
     },
     {
-      "name": "Wet‑Lab Techniques",
+      "name": "Wet-Lab Techniques",
       "keywords": [
         "Mouse husbandry",
         "Genotyping",
@@ -272,7 +274,7 @@
         "Infant social cognition",
         "Social learning",
         "Interpersonal synchrony",
-	"Social interaction"
+        "Social interaction"
       ]
     }
   ],
