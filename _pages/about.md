@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Jonathan is a research assistant at the [Early Mental Potential and Well-Being (EMPOWER) Centre](https://www.ntu.edu.sg/empower) at Nanyang Technological University, Singapore. His research interests include how infants represent people and the communication that unfolds within social interactions. He is especially interested in how cognition emerges through the dynamic interplay between infants’ own agency and the broader social contexts in which they are embedded.
+Jonathan is a research assistant at the [Early Mental Potential and Well-Being (EMPOWER) Centre](https://www.ntu.edu.sg/empower) at Nanyang Technological University, Singapore. His research interests include how infants represent people and the communication that unfolds within social interactions. He is particularly interested in how infants’ learning emerges from the interplay between their own agency and the social contexts around them.
 
 He received his Bachelor of Psychological Science (Hons) from Monash University Malaysia in 2021, where he studied interpersonal perceptions in emerging adults. He then completed his M.A. in Psychology (Developmental Cognitive Neuroscience) at EMPOWER, where his thesis examined the neural basis of parent-to-child social transmission of information.
 
