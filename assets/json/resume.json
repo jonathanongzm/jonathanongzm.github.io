@@ -176,11 +176,11 @@
 
   "publications": [
     {
-      "name": "It’s a guy thing: Sex as a moderator of the relationship between social anxiety and perception of interpersonal warmth in initial heterosexual interactions",
-      "publisher": "Asian Journal of Social Psychology",
-      "releaseDate": "2022-04-22",
-      "url": "https://doi.org/10.1111/ajsp.12536",
-      "summary": "Examines sex differences in how social anxiety influences perceived warmth in first-time heterosexual interactions."
+      "name": "Helicopter parenting and social competence among single Malaysian adults: Filial piety as a moderator",
+      "publisher": "Journal of Adult Development",
+      "releaseDate": "2025-09-30",
+      "url": "https://doi.org/10.1007/s10804-025-09543-9",
+      "summary": "Among single Malaysian adults, perceived childhood helicopter parenting related to lower competence in relationship initiation only for those lower in reciprocal filial piety, with no associations for other social-competence domains."
     },
     {
       "name": "Protocol to study dam–pup social transmission using a modified paradigm for transmission of food preference",
@@ -188,6 +188,13 @@
       "releaseDate": "2024-06-21",
       "url": "https://doi.org/10.1016/j.xpro.2024.103077",
       "summary": "Presents an optogenetic-compatible protocol to investigate neural mechanisms of social learning in mouse dam–pup dyads."
+    },
+    {
+      "name": "It’s a guy thing: Sex as a moderator of the relationship between social anxiety and perception of interpersonal warmth in initial heterosexual interactions",
+      "publisher": "Asian Journal of Social Psychology",
+      "releaseDate": "2022-04-22",
+      "url": "https://doi.org/10.1111/ajsp.12536",
+      "summary": "In initial opposite-sex interactions, higher social anxiety predicted perceiving less partner warmth among men but not among women."
     }
   ],
 
