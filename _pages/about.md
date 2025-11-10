@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: <p>jonathan.ongzm[at]ntu.edu.sg</p> <p>NTU Novena, Singapore</p>
+  more_info: <p>jonathan.ongzm[at]ntu.edu.sg</p> <p>Nanyang Technological University</p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
