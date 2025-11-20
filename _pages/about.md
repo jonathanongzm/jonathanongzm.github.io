@@ -29,7 +29,7 @@ Jonathan is a research assistant at the [Early Mental Potential and Well-Being (
 
 He received his Bachelor of Psychological Science (Hons) from Monash University Malaysia in 2021, where he studied interpersonal perceptions in emerging adults. He then completed his M.A. in Psychology (Developmental Cognitive Neuroscience) at EMPOWER, where his thesis examined the neural basis of parent-to-child social transmission of information.
 
-In his master’s research, he employed optogenetic techniques to synchronize or desynchronize medial prefrontal cortical activity in mouse dams and pups, causally demonstrating downstream effects on social behavior and learning. Using a dynamical systems approach, he showed that interbrain synchrony extends periods of social contingency and modulates explore-exploit trade-offs in foraging decisions.
+In his master’s research, he employed optogenetic techniques to synchronize or desynchronize medial prefrontal cortical activity in mouse dams and pups, demonstrating downstream effects on social behavior and learning. Using a dynamical systems approach, he showed that interbrain synchrony supports socially contingent interactions and modulates explore-exploit trade-offs in foraging decisions.
 
 Jonathan currently works closely with mothers and infants to study how early cognitive and social abilities develop. His research uses naturalistic play-based tasks to assess executive function in young children at risk for neurodevelopmental disorders, while capturing dyadic EEG, ECG, and behavioral measures to characterize patterns within parent–child interactions.
 
