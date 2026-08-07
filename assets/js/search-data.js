@@ -24,11 +24,18 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/jonathan-ong.bsky.social", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%6F%6E%61%74%68%61%6E%7A%6F%6E%67%39%38@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%6A%6F%6E%61%74%68%61%6E.%6F%6E%67@%70%72%69%6E%63%65%74%6F%6E.%65%64%75", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -43,6 +50,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/jonathanongzm", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/jonathan-z-ong", "_blank");
         },
       },{
         id: 'social-orcid',

@@ -4,7 +4,7 @@
 2.  Start **Docker Desktop**  
 3.  Change to the site directory:
 
-    cd "/c/Users/jonat/OneDrive - Nanyang Technological University/Desktop/jonathanongzm.github.io"
+    cd "C:\Users\jonat\Desktop\jonathanongzm.github.io"
 
 4.  Build / update the container and serve the site:
 
