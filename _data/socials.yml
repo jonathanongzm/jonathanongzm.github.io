@@ -4,10 +4,10 @@
 
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
-# bluesky_url: # your bluesky URL
+bluesky_url: https://bsky.app/profile/jonathan-ong.bsky.social
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: jonathanzong98@gmail.com # your email address
+email: jonathan.ong@princeton.edu # your email address
 scholar_userid: V7jJABQAAAAJ # your Google Scholar ID
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
@@ -22,7 +22,7 @@ github_username: jonathanongzm # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
+linkedin_username: jonathan-z-ong # your LinkedIn username
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 orcid_id: 0000-0003-3834-8187 # your ORCID ID

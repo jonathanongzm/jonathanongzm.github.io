@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: <p>jonathan.ongzm[at]ntu.edu.sg</p> <p>Nanyang Technological University</p>
+  more_info: <p>jonathan.ong[at]princeton.edu</p> <p>Princeton University</p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -25,15 +25,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Jonathan is a research assistant at the [Early Mental Potential and Well-Being (EMPOWER) Centre](https://www.ntu.edu.sg/empower) at Nanyang Technological University, Singapore. He is broadly interested in how and what infants learn from social interactions.
+Jonathan is a PhD student at the [Princeton Baby Lab](https://babylab.princeton.edu/), advised by Professor Casey Lew-Williams. He is interested in how infants learn within their everyday environments and, more broadly, what early learning can reveal about human intelligence. To address these questions, he hopes to combine naturalistic and experimental approaches and use artificial intelligence as a testbed for understanding how cognition emerges from everyday experience.
 
-He received his Bachelor of Psychological Science (Hons) from Monash University Malaysia in 2021, where he studied interpersonal perceptions in emerging adults. He then completed his M.A. in Psychology (Developmental Cognitive Neuroscience) at EMPOWER, where his thesis examined the neural basis of parent-to-child social transmission of information.
+Jonathan was born and raised in Malaysia, where he developed an interest in social interaction research as an undergraduate at Monash University Malaysia. He later completed an M.A. in Psychology at Nanyang Technological University in Singapore under the supervision of [Professor Victoria Leong](https://www.ntu.edu.sg/empower). 
 
-In his master’s research, he employed optogenetic techniques to synchronize or desynchronize medial prefrontal cortical activity in mouse dams and pups, demonstrating downstream effects on social behavior and learning. Using a dynamical systems approach, he showed that interbrain synchrony supports socially contingent interactions and modulates explore-exploit trade-offs in foraging decisions.
-
-Jonathan currently works closely with mothers and infants to study how early cognitive and social abilities develop. His research uses naturalistic play-based tasks to assess executive function in young children at risk for neurodevelopmental disorders, while capturing dyadic EEG, ECG, and behavioral measures to characterize patterns within parent–child interactions.
-
-In parallel, he is part of an interdisciplinary team developing an end-to-end pipeline for the automated extraction of social interaction indices from naturalistic parent–infant play. The pipeline integrates multimodal behavioral and physiological data and will contribute to one of the largest curated datasets of its kind. The dataset will be used to train models that predict infant neurodevelopmental profiles from as early as 12 months of age, with applications in both clinical and commercial settings.
+During his master’s, he investigated the neural basis of parent-offspring social learning using a mouse model. He also worked with mothers and infants using multimodal measures of brain, body, and behavior, and contributed to the development of AI-assisted methods for characterizing parent-infant interactions and predicting early neurodevelopmental profiles.
 
 #### Simulated EEG Signals Over a 1-Second Window
 <!-- EEG demo -->
